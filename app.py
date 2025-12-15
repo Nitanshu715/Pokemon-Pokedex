@@ -15,7 +15,6 @@ st.set_page_config(
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = os.path.join(BASE_DIR, "model", "pokemon_model.keras")
-DATASET_PATH = os.path.join(BASE_DIR, "model", "data", "PokemonData")
 POKEDEX_JSON = os.path.join(BASE_DIR, "pokedex.json")
 
 CONF_THRESHOLD = 0.45
@@ -248,7 +247,8 @@ if not os.path.exists(MODEL_PATH):
     st.stop()
 
 model = tf.keras.models.load_model(MODEL_PATH)
-CLASS_NAMES = sorted([d for d in os.listdir(DATASET_PATH) if os.path.isdir(os.path.join(DATASET_PATH, d))])
+# ================== CLASS NAMES ==================
+CLASS_NAMES = sorted([p["name"] for p in POKEDEX_BY_NAME.values()])
 
 # ================== MAIN APP ==================
 st.markdown("<h1>⚡ POKÉMON POKÉDEX ⚡</h1>", unsafe_allow_html=True)
@@ -439,4 +439,5 @@ else:
         **3️. Discover**
         
         View complete stats, type, abilities, and Pokédex information
+
         """)
