@@ -10,6 +10,13 @@ Built using **Deep Learning (CNNs)**, **TensorFlow**, and a **Pokémon-themed in
 
 </div>
 
+<p align="center">
+  <a href="https://pokemon-pokedex-scanner.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" />
+  </a>
+</p>
+
+
 ---
 
 ## 🌟 Project Overview
