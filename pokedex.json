@@ -1,0 +1,4125 @@
+{
+  "Pokedex": [
+    {
+      "id": "0001",
+      "name": "Bulbasaur",
+      "species": "Seed Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 0.7,
+      "weight_kg": 6.9,
+      "abilities": {
+        "primary": "Overgrow",
+        "secondary": null,
+        "hidden": "Chlorophyll"
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 45,
+        "total": 318
+      },
+      "pokedex_entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "evolution_chain": [
+        {"id": "0001", "name": "Bulbasaur", "method": "None"},
+        {"id": "0002", "name": "Ivysaur", "method": "Level 16"},
+        {"id": "0003", "name": "Venusaur", "method": "Level 32"}
+      ]
+    },
+    {
+      "id": "0002",
+      "name": "Ivysaur",
+      "species": "Seed Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 1.0,
+      "weight_kg": 13.0,
+      "abilities": {
+        "primary": "Overgrow",
+        "secondary": null,
+        "hidden": "Chlorophyll"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 60,
+        "total": 405
+      },
+      "pokedex_entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+      "evolution_chain": [
+        {"id": "0001", "name": "Bulbasaur", "method": "None"},
+        {"id": "0002", "name": "Ivysaur", "method": "Level 16"},
+        {"id": "0003", "name": "Venusaur", "method": "Level 32"}
+      ]
+    },
+    {
+      "id": "0003",
+      "name": "Venusaur",
+      "species": "Seed Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 2.0,
+      "weight_kg": 100.0,
+      "abilities": {
+        "primary": "Overgrow",
+        "secondary": null,
+        "hidden": "Chlorophyll"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 80,
+        "total": 525
+      },
+      "pokedex_entry": "The plant blooms when the Pokémon is absorbing solar energy. It stays on the move to seek sunlight.",
+      "evolution_chain": [
+        {"id": "0001", "name": "Bulbasaur", "method": "None"},
+        {"id": "0002", "name": "Ivysaur", "method": "Level 16"},
+        {"id": "0003", "name": "Venusaur", "method": "Level 32"}
+      ]
+    },
+    {
+      "id": "0004",
+      "name": "Charmander",
+      "species": "Lizard Pokémon",
+      "type": ["Fire"],
+      "height_m": 0.6,
+      "weight_kg": 8.5,
+      "abilities": {
+        "primary": "Blaze",
+        "secondary": null,
+        "hidden": "Solar Power"
+      },
+      "base_stats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "sp_atk": 60,
+        "sp_def": 50,
+        "speed": 65,
+        "total": 309
+      },
+      "pokedex_entry": "From the time it is born, a flame burns at the tip of its tail. The flame is said to be a measure of its life.",
+      "evolution_chain": [
+        {"id": "0004", "name": "Charmander", "method": "None"},
+        {"id": "0005", "name": "Charmeleon", "method": "Level 16"},
+        {"id": "0006", "name": "Charizard", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0005",
+      "name": "Charmeleon",
+      "species": "Flame Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.1,
+      "weight_kg": 19.0,
+      "abilities": {
+        "primary": "Blaze",
+        "secondary": null,
+        "hidden": "Solar Power"
+      },
+      "base_stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "sp_atk": 80,
+        "sp_def": 65,
+        "speed": 80,
+        "total": 405
+      },
+      "pokedex_entry": "It has a barbaric nature. In battle, it whips its flaming tail around and slashes with sharp claws.",
+      "evolution_chain": [
+        {"id": "0004", "name": "Charmander", "method": "None"},
+        {"id": "0005", "name": "Charmeleon", "method": "Level 16"},
+        {"id": "0006", "name": "Charizard", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0006",
+      "name": "Charizard",
+      "species": "Flame Pokémon",
+      "type": ["Fire", "Flying"],
+      "height_m": 1.7,
+      "weight_kg": 90.5,
+      "abilities": {
+        "primary": "Blaze",
+        "secondary": null,
+        "hidden": "Solar Power"
+      },
+      "base_stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_atk": 109,
+        "sp_def": 85,
+        "speed": 100,
+        "total": 534
+      },
+      "pokedex_entry": "It spits fire that is hot enough to melt boulders. It is known to cause forest fires unintentionally.",
+      "evolution_chain": [
+        {"id": "0004", "name": "Charmander", "method": "None"},
+        {"id": "0005", "name": "Charmeleon", "method": "Level 16"},
+        {"id": "0006", "name": "Charizard", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0007",
+      "name": "Squirtle",
+      "species": "Tiny Turtle Pokémon",
+      "type": ["Water"],
+      "height_m": 0.5,
+      "weight_kg": 9.0,
+      "abilities": {
+        "primary": "Torrent",
+        "secondary": null,
+        "hidden": "Rain Dish"
+      },
+      "base_stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "sp_atk": 50,
+        "sp_def": 64,
+        "speed": 43,
+        "total": 314
+      },
+      "pokedex_entry": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "evolution_chain": [
+        {"id": "0007", "name": "Squirtle", "method": "None"},
+        {"id": "0008", "name": "Wartortle", "method": "Level 16"},
+        {"id": "0009", "name": "Blastoise", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0008",
+      "name": "Wartortle",
+      "species": "Turtle Pokémon",
+      "type": ["Water"],
+      "height_m": 1.0,
+      "weight_kg": 22.5,
+      "abilities": {
+        "primary": "Torrent",
+        "secondary": null,
+        "hidden": "Rain Dish"
+      },
+      "base_stats": {
+        "hp": 59,
+        "attack": 63,
+        "defense": 80,
+        "sp_atk": 65,
+        "sp_def": 80,
+        "speed": 58,
+        "total": 405
+      },
+      "pokedex_entry": "It is said to live 10,000 years. Its furry tail is a symbol of longevity and is popular as a gift to the elderly.",
+      "evolution_chain": [
+        {"id": "0007", "name": "Squirtle", "method": "None"},
+        {"id": "0008", "name": "Wartortle", "method": "Level 16"},
+        {"id": "0009", "name": "Blastoise", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0009",
+      "name": "Blastoise",
+      "species": "Shellfish Pokémon",
+      "type": ["Water"],
+      "height_m": 1.6,
+      "weight_kg": 85.5,
+      "abilities": {
+        "primary": "Torrent",
+        "secondary": null,
+        "hidden": "Rain Dish"
+      },
+      "base_stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "sp_atk": 85,
+        "sp_def": 105,
+        "speed": 78,
+        "total": 530
+      },
+      "pokedex_entry": "The jets of water that erupt from the cannons on its shell can punch holes through thick steel plate.",
+      "evolution_chain": [
+        {"id": "0007", "name": "Squirtle", "method": "None"},
+        {"id": "0008", "name": "Wartortle", "method": "Level 16"},
+        {"id": "0009", "name": "Blastoise", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0010",
+      "name": "Caterpie",
+      "species": "Worm Pokémon",
+      "type": ["Bug"],
+      "height_m": 0.3,
+      "weight_kg": 2.9,
+      "abilities": {
+        "primary": "Shield Dust",
+        "secondary": null,
+        "hidden": "Run Away"
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "sp_atk": 20,
+        "sp_def": 20,
+        "speed": 45,
+        "total": 195
+      },
+      "pokedex_entry": "Its body is soft and weak. In order to protect itself, it emits a horrible stench from its antennae.",
+      "evolution_chain": [
+        {"id": "0010", "name": "Caterpie", "method": "None"},
+        {"id": "0011", "name": "Metapod", "method": "Level 7"},
+        {"id": "0012", "name": "Butterfree", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0011",
+      "name": "Metapod",
+      "species": "Cocoon Pokémon",
+      "type": ["Bug"],
+      "height_m": 0.7,
+      "weight_kg": 9.9,
+      "abilities": {
+        "primary": "Shed Skin",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 30,
+        "total": 205
+      },
+      "pokedex_entry": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "evolution_chain": [
+        {"id": "0010", "name": "Caterpie", "method": "None"},
+        {"id": "0011", "name": "Metapod", "method": "Level 7"},
+        {"id": "0012", "name": "Butterfree", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0012",
+      "name": "Butterfree",
+      "species": "Butterfly Pokémon",
+      "type": ["Bug", "Flying"],
+      "height_m": 1.1,
+      "weight_kg": 32.0,
+      "abilities": {
+        "primary": "Compound Eyes",
+        "secondary": null,
+        "hidden": "Tinted Lens"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "sp_atk": 90,
+        "sp_def": 80,
+        "speed": 70,
+        "total": 395
+      },
+      "pokedex_entry": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "evolution_chain": [
+        {"id": "0010", "name": "Caterpie", "method": "None"},
+        {"id": "0011", "name": "Metapod", "method": "Level 7"},
+        {"id": "0012", "name": "Butterfree", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0013",
+      "name": "Weedle",
+      "species": "Hairy Bug Pokémon",
+      "type": ["Bug", "Poison"],
+      "height_m": 0.3,
+      "weight_kg": 3.2,
+      "abilities": {
+        "primary": "Shield Dust",
+        "secondary": null,
+        "hidden": "Run Away"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp_atk": 20,
+        "sp_def": 20,
+        "speed": 50,
+        "total": 195
+      },
+      "pokedex_entry": "Often found in forests and grasslands. It has a sharp, toxic barb of two inches on top of its head.",
+      "evolution_chain": [
+        {"id": "0013", "name": "Weedle", "method": "None"},
+        {"id": "0014", "name": "Kakuna", "method": "Level 7"},
+        {"id": "0015", "name": "Beedrill", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0014",
+      "name": "Kakuna",
+      "species": "Cocoon Pokémon",
+      "type": ["Bug", "Poison"],
+      "height_m": 0.6,
+      "weight_kg": 10.0,
+      "abilities": {
+        "primary": "Shed Skin",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 35,
+        "total": 205
+      },
+      "pokedex_entry": "It remains virtually immobile as it awaits evolution. Attacked by predators, it may retaliate with a poisonous sting.",
+      "evolution_chain": [
+        {"id": "0013", "name": "Weedle", "method": "None"},
+        {"id": "0014", "name": "Kakuna", "method": "Level 7"},
+        {"id": "0015", "name": "Beedrill", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0015",
+      "name": "Beedrill",
+      "species": "Poison Bee Pokémon",
+      "type": ["Bug", "Poison"],
+      "height_m": 1.0,
+      "weight_kg": 29.5,
+      "abilities": {
+        "primary": "Swarm",
+        "secondary": null,
+        "hidden": "Sniper"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 40,
+        "sp_atk": 45,
+        "sp_def": 80,
+        "speed": 75,
+        "total": 395
+      },
+      "pokedex_entry": "It flies at high speed and attacks with the large venomous stingers on its forelegs and tail.",
+      "evolution_chain": [
+        {"id": "0013", "name": "Weedle", "method": "None"},
+        {"id": "0014", "name": "Kakuna", "method": "Level 7"},
+        {"id": "0015", "name": "Beedrill", "method": "Level 10"}
+      ]
+    },
+    {
+      "id": "0016",
+      "name": "Pidgey",
+      "species": "Tiny Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 0.3,
+      "weight_kg": 1.8,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": "Tangled Feet",
+        "hidden": "Big Pecks"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "sp_atk": 35,
+        "sp_def": 35,
+        "speed": 56,
+        "total": 251
+      },
+      "pokedex_entry": "Does not like to fight. It hides in tall grass and will kick up sand to protect itself.",
+      "evolution_chain": [
+        {"id": "0016", "name": "Pidgey", "method": "None"},
+        {"id": "0017", "name": "Pidgeotto", "method": "Level 18"},
+        {"id": "0018", "name": "Pidgeot", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0017",
+      "name": "Pidgeotto",
+      "species": "Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 1.1,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": "Tangled Feet",
+        "hidden": "Big Pecks"
+      },
+      "base_stats": {
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 71,
+        "total": 349
+      },
+      "pokedex_entry": "This Pokémon flies around relentlessly, patrolling its large territory for any trespassers.",
+      "evolution_chain": [
+        {"id": "0016", "name": "Pidgey", "method": "None"},
+        {"id": "0017", "name": "Pidgeotto", "method": "Level 18"},
+        {"id": "0018", "name": "Pidgeot", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0018",
+      "name": "Pidgeot",
+      "species": "Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 1.5,
+      "weight_kg": 39.5,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": "Tangled Feet",
+        "hidden": "Big Pecks"
+      },
+      "base_stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "sp_atk": 70,
+        "sp_def": 70,
+        "speed": 101,
+        "total": 479
+      },
+      "pokedex_entry": "By flapping its wings with great force, it can whip up a gusty wind capable of bending trees.",
+      "evolution_chain": [
+        {"id": "0016", "name": "Pidgey", "method": "None"},
+        {"id": "0017", "name": "Pidgeotto", "method": "Level 18"},
+        {"id": "0018", "name": "Pidgeot", "method": "Level 36"}
+      ]
+    },
+    {
+      "id": "0019",
+      "name": "Rattata",
+      "species": "Mouse Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.3,
+      "weight_kg": 3.5,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Guts",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "sp_atk": 25,
+        "sp_def": 35,
+        "speed": 72,
+        "total": 253
+      },
+      "pokedex_entry": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more are hidden nearby.",
+      "evolution_chain": [
+        {"id": "0019", "name": "Rattata", "method": "None"},
+        {"id": "0020", "name": "Raticate", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0020",
+      "name": "Raticate",
+      "species": "Mouse Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.7,
+      "weight_kg": 18.5,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Guts",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 81,
+        "defense": 60,
+        "sp_atk": 50,
+        "sp_def": 70,
+        "speed": 97,
+        "total": 413
+      },
+      "pokedex_entry": "Its fangs are always growing, so it must always be gnawing on something to keep them ground down.",
+      "evolution_chain": [
+        {"id": "0019", "name": "Rattata", "method": "None"},
+        {"id": "0020", "name": "Raticate", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0021",
+      "name": "Spearow",
+      "species": "Tiny Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 0.3,
+      "weight_kg": 2.0,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": null,
+        "hidden": "Sniper"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "sp_atk": 31,
+        "sp_def": 31,
+        "speed": 70,
+        "total": 262
+      },
+      "pokedex_entry": "Eats bugs in grassy areas. It has to flap its small wings at high speed to stay airborne.",
+      "evolution_chain": [
+        {"id": "0021", "name": "Spearow", "method": "None"},
+        {"id": "0022", "name": "Fearow", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0022",
+      "name": "Fearow",
+      "species": "Beak Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 1.2,
+      "weight_kg": 38.0,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": null,
+        "hidden": "Sniper"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 65,
+        "sp_atk": 61,
+        "sp_def": 61,
+        "speed": 100,
+        "total": 442
+      },
+      "pokedex_entry": "A Pokémon that has been around for many ages. It has a long, thin beak and a long neck for catching prey.",
+      "evolution_chain": [
+        {"id": "0021", "name": "Spearow", "method": "None"},
+        {"id": "0022", "name": "Fearow", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0023",
+      "name": "Ekans",
+      "species": "Snake Pokémon",
+      "type": ["Poison"],
+      "height_m": 2.0,
+      "weight_kg": 6.9,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": "Shed Skin",
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "sp_atk": 40,
+        "sp_def": 54,
+        "speed": 55,
+        "total": 288
+      },
+      "pokedex_entry": "Moves silently and stealthily. Eats the eggs of birds, such as Pidgey and Spearow, whole.",
+      "evolution_chain": [
+        {"id": "0023", "name": "Ekans", "method": "None"},
+        {"id": "0024", "name": "Arbok", "method": "Level 22"}
+      ]
+    },
+    {
+      "id": "0024",
+      "name": "Arbok",
+      "species": "Cobra Pokémon",
+      "type": ["Poison"],
+      "height_m": 3.5,
+      "weight_kg": 65.0,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": "Shed Skin",
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 69,
+        "sp_atk": 65,
+        "sp_def": 79,
+        "speed": 80,
+        "total": 448
+      },
+      "pokedex_entry": "The frightening pattern on its belly is said to vary from area to area depending on its prey.",
+      "evolution_chain": [
+        {"id": "0023", "name": "Ekans", "method": "None"},
+        {"id": "0024", "name": "Arbok", "method": "Level 22"}
+      ]
+    },
+    {
+      "id": "0025",
+      "name": "Pikachu",
+      "species": "Mouse Pokémon",
+      "type": ["Electric"],
+      "height_m": 0.4,
+      "weight_kg": 6.0,
+      "abilities": {
+        "primary": "Static",
+        "secondary": null,
+        "hidden": "Lightning Rod"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 90,
+        "total": 320
+      },
+      "pokedex_entry": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+      "evolution_chain": [
+        {"id": "0025", "name": "Pikachu", "method": "None (Pichu in later gens)"},
+        {"id": "0026", "name": "Raichu", "method": "Thunder Stone"}
+      ]
+    },
+    {
+      "id": "0026",
+      "name": "Raichu",
+      "species": "Mouse Pokémon",
+      "type": ["Electric"],
+      "height_m": 0.8,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Static",
+        "secondary": null,
+        "hidden": "Lightning Rod"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "sp_atk": 90,
+        "sp_def": 80,
+        "speed": 110,
+        "total": 485
+      },
+      "pokedex_entry": "Its tail discharges electricity into the ground, protecting itself from its own power.",
+      "evolution_chain": [
+        {"id": "0025", "name": "Pikachu", "method": "None (Pichu in later gens)"},
+        {"id": "0026", "name": "Raichu", "method": "Thunder Stone"}
+      ]
+    },
+    {
+      "id": "0027",
+      "name": "Sandshrew",
+      "species": "Mouse Pokémon",
+      "type": ["Ground"],
+      "height_m": 0.6,
+      "weight_kg": 12.0,
+      "abilities": {
+        "primary": "Sand Veil",
+        "secondary": null,
+        "hidden": "Sand Rush"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "sp_atk": 20,
+        "sp_def": 30,
+        "speed": 40,
+        "total": 300
+      },
+      "pokedex_entry": "Its body is dry skin. When it curls up in a ball, it can withstand any attack.",
+      "evolution_chain": [
+        {"id": "0027", "name": "Sandshrew", "method": "None"},
+        {"id": "0028", "name": "Sandslash", "method": "Level 22"}
+      ]
+    },
+    {
+      "id": "0028",
+      "name": "Sandslash",
+      "species": "Mouse Pokémon",
+      "type": ["Ground"],
+      "height_m": 1.0,
+      "weight_kg": 29.5,
+      "abilities": {
+        "primary": "Sand Veil",
+        "secondary": null,
+        "hidden": "Sand Rush"
+      },
+      "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "sp_atk": 45,
+        "sp_def": 55,
+        "speed": 65,
+        "total": 450
+      },
+      "pokedex_entry": "The claws on its hands and feet are incredibly sharp. If it is enraged, it will shred its opponent with a flurry of attacks.",
+      "evolution_chain": [
+        {"id": "0027", "name": "Sandshrew", "method": "None"},
+        {"id": "0028", "name": "Sandslash", "method": "Level 22"}
+      ]
+    },
+    {
+      "id": "0029",
+      "name": "Nidoran♀",
+      "species": "Poison Pin Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.4,
+      "weight_kg": 7.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 47,
+        "defense": 52,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 41,
+        "total": 275
+      },
+      "pokedex_entry": "Although small, its horn is very poisonous. If it is excited, it will raise its ears and make a high-pitched cry.",
+      "evolution_chain": [
+        {"id": "0029", "name": "Nidoran♀", "method": "None"},
+        {"id": "0030", "name": "Nidorina", "method": "Level 16"},
+        {"id": "0031", "name": "Nidoqueen", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0030",
+      "name": "Nidorina",
+      "species": "Poison Pin Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.8,
+      "weight_kg": 20.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 62,
+        "defense": 67,
+        "sp_atk": 55,
+        "sp_def": 55,
+        "speed": 56,
+        "total": 365
+      },
+      "pokedex_entry": "The female's horn develops slowly. Prefers not to fight. It's said that this Pokémon becomes agitated if separated from its companions.",
+      "evolution_chain": [
+        {"id": "0029", "name": "Nidoran♀", "method": "None"},
+        {"id": "0030", "name": "Nidorina", "method": "Level 16"},
+        {"id": "0031", "name": "Nidoqueen", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0031",
+      "name": "Nidoqueen",
+      "species": "Drill Pokémon",
+      "type": ["Poison", "Ground"],
+      "height_m": 1.3,
+      "weight_kg": 60.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Sheer Force"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 92,
+        "defense": 87,
+        "sp_atk": 75,
+        "sp_def": 85,
+        "speed": 76,
+        "total": 505
+      },
+      "pokedex_entry": "Its hard scales provide a rock-hard shield. It will protect its children from any danger.",
+      "evolution_chain": [
+        {"id": "0029", "name": "Nidoran♀", "method": "None"},
+        {"id": "0030", "name": "Nidorina", "method": "Level 16"},
+        {"id": "0031", "name": "Nidoqueen", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0032",
+      "name": "Nidoran♂",
+      "species": "Poison Pin Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.5,
+      "weight_kg": 9.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 46,
+        "attack": 57,
+        "defense": 40,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 50,
+        "total": 273
+      },
+      "pokedex_entry": "The male has a horn that contains a powerful venom. Raising its ears is a sign of caution.",
+      "evolution_chain": [
+        {"id": "0032", "name": "Nidoran♂", "method": "None"},
+        {"id": "0033", "name": "Nidorino", "method": "Level 16"},
+        {"id": "0034", "name": "Nidoking", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0033",
+      "name": "Nidorino",
+      "species": "Poison Pin Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.9,
+      "weight_kg": 19.5,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Hustle"
+      },
+      "base_stats": {
+        "hp": 61,
+        "attack": 72,
+        "defense": 57,
+        "sp_atk": 55,
+        "sp_def": 55,
+        "speed": 65,
+        "total": 365
+      },
+      "pokedex_entry": "Its horn is harder than a diamond. If it is excited, the horn emits a powerful venom.",
+      "evolution_chain": [
+        {"id": "0032", "name": "Nidoran♂", "method": "None"},
+        {"id": "0033", "name": "Nidorino", "method": "Level 16"},
+        {"id": "0034", "name": "Nidoking", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0034",
+      "name": "Nidoking",
+      "species": "Drill Pokémon",
+      "type": ["Poison", "Ground"],
+      "height_m": 1.4,
+      "weight_kg": 62.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Rivalry",
+        "hidden": "Sheer Force"
+      },
+      "base_stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "sp_atk": 85,
+        "sp_def": 75,
+        "speed": 85,
+        "total": 505
+      },
+      "pokedex_entry": "It swings its mighty tail in a destructive sweep, toppling opponents like trees.",
+      "evolution_chain": [
+        {"id": "0032", "name": "Nidoran♂", "method": "None"},
+        {"id": "0033", "name": "Nidorino", "method": "Level 16"},
+        {"id": "0034", "name": "Nidoking", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0035",
+      "name": "Clefairy",
+      "species": "Fairy Pokémon",
+      "type": ["Fairy"],
+      "height_m": 0.6,
+      "weight_kg": 7.5,
+      "abilities": {
+        "primary": "Cute Charm",
+        "secondary": "Magic Guard",
+        "hidden": "Friend Guard"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 48,
+        "sp_atk": 60,
+        "sp_def": 65,
+        "speed": 35,
+        "total": 323
+      },
+      "pokedex_entry": "Its adorable appearance is backed by its powerful psychic abilities. It is said to live at the foot of mountains.",
+      "evolution_chain": [
+        {"id": "0035", "name": "Clefairy", "method": "None (Cleffa in later gens)"},
+        {"id": "0036", "name": "Clefable", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0036",
+      "name": "Clefable",
+      "species": "Fairy Pokémon",
+      "type": ["Fairy"],
+      "height_m": 1.3,
+      "weight_kg": 40.0,
+      "abilities": {
+        "primary": "Cute Charm",
+        "secondary": "Magic Guard",
+        "hidden": "Unaware"
+      },
+      "base_stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "sp_atk": 95,
+        "sp_def": 90,
+        "speed": 60,
+        "total": 483
+      },
+      "pokedex_entry": "A timid fairy Pokémon that rarely appears before people. It will walk on water to return home under the moonlight.",
+      "evolution_chain": [
+        {"id": "0035", "name": "Clefairy", "method": "None (Cleffa in later gens)"},
+        {"id": "0036", "name": "Clefable", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0037",
+      "name": "Vulpix",
+      "species": "Fox Pokémon",
+      "type": ["Fire"],
+      "height_m": 0.6,
+      "weight_kg": 9.9,
+      "abilities": {
+        "primary": "Flash Fire",
+        "secondary": null,
+        "hidden": "Drought"
+      },
+      "base_stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "sp_atk": 50,
+        "sp_def": 65,
+        "speed": 65,
+        "total": 305
+      },
+      "pokedex_entry": "At the time of birth, it has just one tail. The tail splits into six as it grows older.",
+      "evolution_chain": [
+        {"id": "0037", "name": "Vulpix", "method": "None"},
+        {"id": "0038", "name": "Ninetales", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0038",
+      "name": "Ninetales",
+      "species": "Fox Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.1,
+      "weight_kg": 19.9,
+      "abilities": {
+        "primary": "Flash Fire",
+        "secondary": null,
+        "hidden": "Drought"
+      },
+      "base_stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "sp_atk": 81,
+        "sp_def": 100,
+        "speed": 100,
+        "total": 505
+      },
+      "pokedex_entry": "Legend has it that nine noble saints were united and reincarnated as this Pokémon.",
+      "evolution_chain": [
+        {"id": "0037", "name": "Vulpix", "method": "None"},
+        {"id": "0038", "name": "Ninetales", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0039",
+      "name": "Jigglypuff",
+      "species": "Balloon Pokémon",
+      "type": ["Normal", "Fairy"],
+      "height_m": 0.5,
+      "weight_kg": 5.5,
+      "abilities": {
+        "primary": "Cute Charm",
+        "secondary": "Competitive",
+        "hidden": "Friend Guard"
+      },
+      "base_stats": {
+        "hp": 115,
+        "attack": 45,
+        "defense": 20,
+        "sp_atk": 45,
+        "sp_def": 25,
+        "speed": 20,
+        "total": 270
+      },
+      "pokedex_entry": "When its huge eyes waver, it is singing a lullaby. This song is sung so well, it is able to make any foe fall asleep.",
+      "evolution_chain": [
+        {"id": "0039", "name": "Jigglypuff", "method": "None (Igglybuff in later gens)"},
+        {"id": "0040", "name": "Wigglytuff", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0040",
+      "name": "Wigglytuff",
+      "species": "Balloon Pokémon",
+      "type": ["Normal", "Fairy"],
+      "height_m": 1.0,
+      "weight_kg": 12.0,
+      "abilities": {
+        "primary": "Cute Charm",
+        "secondary": "Competitive",
+        "hidden": "Frisk"
+      },
+      "base_stats": {
+        "hp": 140,
+        "attack": 70,
+        "defense": 45,
+        "sp_atk": 85,
+        "sp_def": 50,
+        "speed": 45,
+        "total": 435
+      },
+      "pokedex_entry": "Its fur is so soft, it is irresistible to touch. The softness is said to come from the fact that its fur is covered in a layer of fine, downy hair.",
+      "evolution_chain": [
+        {"id": "0039", "name": "Jigglypuff", "method": "None (Igglybuff in later gens)"},
+        {"id": "0040", "name": "Wigglytuff", "method": "Moon Stone"}
+      ]
+    },
+    {
+      "id": "0041",
+      "name": "Zubat",
+      "species": "Bat Pokémon",
+      "type": ["Poison", "Flying"],
+      "height_m": 0.8,
+      "weight_kg": 7.5,
+      "abilities": {
+        "primary": "Inner Focus",
+        "secondary": null,
+        "hidden": "Infiltrator"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_atk": 30,
+        "sp_def": 40,
+        "speed": 55,
+        "total": 245
+      },
+      "pokedex_entry": "Emits ultrasonic cries to check its surroundings. Even in crowded caves, Zubat will not bump into anything.",
+      "evolution_chain": [
+        {"id": "0041", "name": "Zubat", "method": "None"},
+        {"id": "0042", "name": "Golbat", "method": "Level 22"},
+        {"id": "0169", "name": "Crobat", "method": "High Friendship (later gens)"}
+      ]
+    },
+    {
+      "id": "0042",
+      "name": "Golbat",
+      "species": "Bat Pokémon",
+      "type": ["Poison", "Flying"],
+      "height_m": 1.6,
+      "weight_kg": 55.0,
+      "abilities": {
+        "primary": "Inner Focus",
+        "secondary": null,
+        "hidden": "Infiltrator"
+      },
+      "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "sp_atk": 65,
+        "sp_def": 75,
+        "speed": 90,
+        "total": 455
+      },
+      "pokedex_entry": "It has a taste for the blood of living things. It will sometimes drink too much blood, making it too heavy to fly.",
+      "evolution_chain": [
+        {"id": "0041", "name": "Zubat", "method": "None"},
+        {"id": "0042", "name": "Golbat", "method": "Level 22"},
+        {"id": "0169", "name": "Crobat", "method": "High Friendship (later gens)"}
+      ]
+    },
+    {
+      "id": "0043",
+      "name": "Oddish",
+      "species": "Weed Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 0.5,
+      "weight_kg": 4.2,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Run Away"
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 55,
+        "sp_atk": 75,
+        "sp_def": 65,
+        "speed": 30,
+        "total": 320
+      },
+      "pokedex_entry": "During the day, it keeps its face buried in the ground. It is said to be a moon petal.",
+      "evolution_chain": [
+        {"id": "0043", "name": "Oddish", "method": "None"},
+        {"id": "0044", "name": "Gloom", "method": "Level 21"},
+        {"id": "0045", "name": "Vileplume", "method": "Leaf Stone"},
+        {"id": "0182", "name": "Bellossom", "method": "Sun Stone (later gens)"}
+      ]
+    },
+    {
+      "id": "0044",
+      "name": "Gloom",
+      "species": "Weed Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 0.8,
+      "weight_kg": 8.6,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Stench"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 70,
+        "sp_atk": 85,
+        "sp_def": 75,
+        "speed": 40,
+        "total": 395
+      },
+      "pokedex_entry": "The flower that blooms on its head is the largest in the world and smells awful.",
+      "evolution_chain": [
+        {"id": "0043", "name": "Oddish", "method": "None"},
+        {"id": "0044", "name": "Gloom", "method": "Level 21"},
+        {"id": "0045", "name": "Vileplume", "method": "Leaf Stone"},
+        {"id": "0182", "name": "Bellossom", "method": "Sun Stone (later gens)"}
+      ]
+    },
+    {
+      "id": "0045",
+      "name": "Vileplume",
+      "species": "Flower Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 1.2,
+      "weight_kg": 18.6,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Effect Spore"
+      },
+      "base_stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 85,
+        "sp_atk": 110,
+        "sp_def": 90,
+        "speed": 50,
+        "total": 490
+      },
+      "pokedex_entry": "The larger its petals, the more toxic pollen it contains. Its large flower is used to attract prey.",
+      "evolution_chain": [
+        {"id": "0043", "name": "Oddish", "method": "None"},
+        {"id": "0044", "name": "Gloom", "method": "Level 21"},
+        {"id": "0045", "name": "Vileplume", "method": "Leaf Stone"},
+        {"id": "0182", "name": "Bellossom", "method": "Sun Stone (later gens)"}
+      ]
+    },
+    {
+      "id": "0046",
+      "name": "Paras",
+      "species": "Mushroom Pokémon",
+      "type": ["Bug", "Grass"],
+      "height_m": 0.3,
+      "weight_kg": 5.4,
+      "abilities": {
+        "primary": "Effect Spore",
+        "secondary": "Dry Skin",
+        "hidden": "Damp"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "sp_atk": 45,
+        "sp_def": 55,
+        "speed": 25,
+        "total": 285
+      },
+      "pokedex_entry": "A host-parasite pair in which the bug is controlled by the mushrooms that grow on its back.",
+      "evolution_chain": [
+        {"id": "0046", "name": "Paras", "method": "None"},
+        {"id": "0047", "name": "Parasect", "method": "Level 24"}
+      ]
+    },
+    {
+      "id": "0047",
+      "name": "Parasect",
+      "species": "Mushroom Pokémon",
+      "type": ["Bug", "Grass"],
+      "height_m": 1.0,
+      "weight_kg": 29.5,
+      "abilities": {
+        "primary": "Effect Spore",
+        "secondary": "Dry Skin",
+        "hidden": "Damp"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 80,
+        "sp_atk": 60,
+        "sp_def": 80,
+        "speed": 30,
+        "total": 405
+      },
+      "pokedex_entry": "A mushroom is growing out of its back. It is rumored to be the true brains of the Pokémon, controlling Parasect to scatter spores.",
+      "evolution_chain": [
+        {"id": "0046", "name": "Paras", "method": "None"},
+        {"id": "0047", "name": "Parasect", "method": "Level 24"}
+      ]
+    },
+    {
+      "id": "0048",
+      "name": "Venonat",
+      "species": "Insect Pokémon",
+      "type": ["Bug", "Poison"],
+      "height_m": 1.0,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Compound Eyes",
+        "secondary": "Tinted Lens",
+        "hidden": "Run Away"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 50,
+        "sp_atk": 40,
+        "sp_def": 55,
+        "speed": 45,
+        "total": 305
+      },
+      "pokedex_entry": "Its big eyes are actually clusters of tiny eyes. At night, the eyes work like a radar system.",
+      "evolution_chain": [
+        {"id": "0048", "name": "Venonat", "method": "None"},
+        {"id": "0049", "name": "Venomoth", "method": "Level 31"}
+      ]
+    },
+    {
+      "id": "0049",
+      "name": "Venomoth",
+      "species": "Poison Moth Pokémon",
+      "type": ["Bug", "Poison"],
+      "height_m": 1.5,
+      "weight_kg": 12.5,
+      "abilities": {
+        "primary": "Shield Dust",
+        "secondary": "Tinted Lens",
+        "hidden": "Wonder Skin"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "sp_atk": 90,
+        "sp_def": 75,
+        "speed": 90,
+        "total": 450
+      },
+      "pokedex_entry": "The powdery scales on its wings are hard to remove. They are laced with a venom that can paralyze foes.",
+      "evolution_chain": [
+        {"id": "0048", "name": "Venonat", "method": "None"},
+        {"id": "0049", "name": "Venomoth", "method": "Level 31"}
+      ]
+    },
+    {
+      "id": "0050",
+      "name": "Diglett",
+      "species": "Mole Pokémon",
+      "type": ["Ground"],
+      "height_m": 0.2,
+      "weight_kg": 0.8,
+      "abilities": {
+        "primary": "Sand Veil",
+        "secondary": "Arena Trap",
+        "hidden": "Sand Force"
+      },
+      "base_stats": {
+        "hp": 10,
+        "attack": 55,
+        "defense": 25,
+        "sp_atk": 35,
+        "sp_def": 45,
+        "speed": 95,
+        "total": 265
+      },
+      "pokedex_entry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears on the surface.",
+      "evolution_chain": [
+        {"id": "0050", "name": "Diglett", "method": "None"},
+        {"id": "0051", "name": "Dugtrio", "method": "Level 26"}
+      ]
+    },
+    {
+      "id": "0051",
+      "name": "Dugtrio",
+      "species": "Mole Pokémon",
+      "type": ["Ground"],
+      "height_m": 0.7,
+      "weight_kg": 33.3,
+      "abilities": {
+        "primary": "Sand Veil",
+        "secondary": "Arena Trap",
+        "hidden": "Sand Force"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "sp_atk": 50,
+        "sp_def": 70,
+        "speed": 120,
+        "total": 425
+      },
+      "pokedex_entry": "These triplets dig ground faster than a machine. They can create a major earthquake 60 miles beneath the surface.",
+      "evolution_chain": [
+        {"id": "0050", "name": "Diglett", "method": "None"},
+        {"id": "0051", "name": "Dugtrio", "method": "Level 26"}
+      ]
+    },
+    {
+      "id": "0052",
+      "name": "Meowth",
+      "species": "Scratch Cat Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.4,
+      "weight_kg": 4.2,
+      "abilities": {
+        "primary": "Pickup",
+        "secondary": "Technician",
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 90,
+        "total": 290
+      },
+      "pokedex_entry": "A nocturnal Pokémon that is able to see in the dark. It is attracted by shiny things.",
+      "evolution_chain": [
+        {"id": "0052", "name": "Meowth", "method": "None"},
+        {"id": "0053", "name": "Persian", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0053",
+      "name": "Persian",
+      "species": "Classy Cat Pokémon",
+      "type": ["Normal"],
+      "height_m": 1.0,
+      "weight_kg": 32.0,
+      "abilities": {
+        "primary": "Limber",
+        "secondary": "Technician",
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 115,
+        "total": 440
+      },
+      "pokedex_entry": "A very proud Pokémon that will use its sharp claws to scratch its opponents without warning.",
+      "evolution_chain": [
+        {"id": "0052", "name": "Meowth", "method": "None"},
+        {"id": "0053", "name": "Persian", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0054",
+      "name": "Psyduck",
+      "species": "Duck Pokémon",
+      "type": ["Water"],
+      "height_m": 0.8,
+      "weight_kg": 19.6,
+      "abilities": {
+        "primary": "Damp",
+        "secondary": "Cloud Nine",
+        "hidden": "Swift Swim"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "sp_atk": 65,
+        "sp_def": 50,
+        "speed": 55,
+        "total": 320
+      },
+      "pokedex_entry": "When its headache becomes severe, it starts using psychic power. However, it can't remember ever using it.",
+      "evolution_chain": [
+        {"id": "0054", "name": "Psyduck", "method": "None"},
+        {"id": "0055", "name": "Golduck", "method": "Level 33"}
+      ]
+    },
+    {
+      "id": "0055",
+      "name": "Golduck",
+      "species": "Duck Pokémon",
+      "type": ["Water"],
+      "height_m": 1.7,
+      "weight_kg": 76.6,
+      "abilities": {
+        "primary": "Damp",
+        "secondary": "Cloud Nine",
+        "hidden": "Swift Swim"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 78,
+        "sp_atk": 95,
+        "sp_def": 80,
+        "speed": 85,
+        "total": 500
+      },
+      "pokedex_entry": "A powerful swimmer, it can be seen fishing in rivers and lakes. Its psychic powers are amplified when swimming.",
+      "evolution_chain": [
+        {"id": "0054", "name": "Psyduck", "method": "None"},
+        {"id": "0055", "name": "Golduck", "method": "Level 33"}
+      ]
+    },
+    {
+      "id": "0056",
+      "name": "Mankey",
+      "species": "Pig Monkey Pokémon",
+      "type": ["Fighting"],
+      "height_m": 0.5,
+      "weight_kg": 28.0,
+      "abilities": {
+        "primary": "Vital Spirit",
+        "secondary": "Anger Point",
+        "hidden": "Defiant"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 35,
+        "sp_atk": 35,
+        "sp_def": 45,
+        "speed": 70,
+        "total": 305
+      },
+      "pokedex_entry": "If it starts shaking and its nasal breathing turns rough, it is about to enter a furious rage.",
+      "evolution_chain": [
+        {"id": "0056", "name": "Mankey", "method": "None"},
+        {"id": "0057", "name": "Primeape", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0057",
+      "name": "Primeape",
+      "species": "Pig Monkey Pokémon",
+      "type": ["Fighting"],
+      "height_m": 1.0,
+      "weight_kg": 32.0,
+      "abilities": {
+        "primary": "Vital Spirit",
+        "secondary": "Anger Point",
+        "hidden": "Defiant"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 105,
+        "defense": 60,
+        "sp_atk": 60,
+        "sp_def": 70,
+        "speed": 95,
+        "total": 455
+      },
+      "pokedex_entry": "It is always angry. If it stops being angry, it dies. Only by being angry can it stay alive.",
+      "evolution_chain": [
+        {"id": "0056", "name": "Mankey", "method": "None"},
+        {"id": "0057", "name": "Primeape", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0058",
+      "name": "Growlithe",
+      "species": "Puppy Pokémon",
+      "type": ["Fire"],
+      "height_m": 0.7,
+      "weight_kg": 19.0,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": "Flash Fire",
+        "hidden": "Justified"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "sp_atk": 70,
+        "sp_def": 50,
+        "speed": 60,
+        "total": 350
+      },
+      "pokedex_entry": "Very protective of its territory. It will bark and bite to repel intruders from its space.",
+      "evolution_chain": [
+        {"id": "0058", "name": "Growlithe", "method": "None"},
+        {"id": "0059", "name": "Arcanine", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0059",
+      "name": "Arcanine",
+      "species": "Legendary Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.9,
+      "weight_kg": 155.0,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": "Flash Fire",
+        "hidden": "Justified"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "sp_atk": 100,
+        "sp_def": 80,
+        "speed": 95,
+        "total": 555
+      },
+      "pokedex_entry": "A legendary Pokémon in the East. Its speed is amazing. It is said to run over 6,200 miles in a single day and night.",
+      "evolution_chain": [
+        {"id": "0058", "name": "Growlithe", "method": "None"},
+        {"id": "0059", "name": "Arcanine", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0060",
+      "name": "Poliwag",
+      "species": "Tadpole Pokémon",
+      "type": ["Water"],
+      "height_m": 0.6,
+      "weight_kg": 12.4,
+      "abilities": {
+        "primary": "Water Absorb",
+        "secondary": "Damp",
+        "hidden": "Swift Swim"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 50,
+        "defense": 40,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 90,
+        "total": 300
+      },
+      "pokedex_entry": "Its skin is so thin, its internal organs are visible. It is a very timid Pokémon.",
+      "evolution_chain": [
+        {"id": "0060", "name": "Poliwag", "method": "None"},
+        {"id": "0061", "name": "Poliwhirl", "method": "Level 25"},
+        {"id": "0062", "name": "Poliwrath", "method": "Water Stone"},
+        {"id": "0186", "name": "Politoed", "method": "Trade w/ King's Rock (later gens)"}
+      ]
+    },
+    {
+      "id": "0061",
+      "name": "Poliwhirl",
+      "species": "Tadpole Pokémon",
+      "type": ["Water"],
+      "height_m": 1.0,
+      "weight_kg": 20.0,
+      "abilities": {
+        "primary": "Water Absorb",
+        "secondary": "Damp",
+        "hidden": "Swift Swim"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 65,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 90,
+        "total": 385
+      },
+      "pokedex_entry": "Its two legs are well developed. Even though it can live on the ground, it prefers to live in water.",
+      "evolution_chain": [
+        {"id": "0060", "name": "Poliwag", "method": "None"},
+        {"id": "0061", "name": "Poliwhirl", "method": "Level 25"},
+        {"id": "0062", "name": "Poliwrath", "method": "Water Stone"},
+        {"id": "0186", "name": "Politoed", "method": "Trade w/ King's Rock (later gens)"}
+      ]
+    },
+    {
+      "id": "0062",
+      "name": "Poliwrath",
+      "species": "Tadpole Pokémon",
+      "type": ["Water", "Fighting"],
+      "height_m": 1.3,
+      "weight_kg": 54.0,
+      "abilities": {
+        "primary": "Water Absorb",
+        "secondary": "Damp",
+        "hidden": "Swift Swim"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "sp_atk": 70,
+        "sp_def": 90,
+        "speed": 70,
+        "total": 510
+      },
+      "pokedex_entry": "An adept swimmer. It can use its arms to break through ice blocks and swim at amazing speeds.",
+      "evolution_chain": [
+        {"id": "0060", "name": "Poliwag", "method": "None"},
+        {"id": "0061", "name": "Poliwhirl", "method": "Level 25"},
+        {"id": "0062", "name": "Poliwrath", "method": "Water Stone"},
+        {"id": "0186", "name": "Politoed", "method": "Trade w/ King's Rock (later gens)"}
+      ]
+    },
+    {
+      "id": "0063",
+      "name": "Abra",
+      "species": "Psi Pokémon",
+      "type": ["Psychic"],
+      "height_m": 0.9,
+      "weight_kg": 19.5,
+      "abilities": {
+        "primary": "Synchronize",
+        "secondary": "Inner Focus",
+        "hidden": "Magic Guard"
+      },
+      "base_stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "sp_atk": 105,
+        "sp_def": 55,
+        "speed": 90,
+        "total": 310
+      },
+      "pokedex_entry": "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
+      "evolution_chain": [
+        {"id": "0063", "name": "Abra", "method": "None"},
+        {"id": "0064", "name": "Kadabra", "method": "Level 16"},
+        {"id": "0065", "name": "Alakazam", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0064",
+      "name": "Kadabra",
+      "species": "Psi Pokémon",
+      "type": ["Psychic"],
+      "height_m": 1.3,
+      "weight_kg": 56.5,
+      "abilities": {
+        "primary": "Synchronize",
+        "secondary": "Inner Focus",
+        "hidden": "Magic Guard"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp_atk": 120,
+        "sp_def": 70,
+        "speed": 105,
+        "total": 400
+      },
+      "pokedex_entry": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while assisting with research.",
+      "evolution_chain": [
+        {"id": "0063", "name": "Abra", "method": "None"},
+        {"id": "0064", "name": "Kadabra", "method": "Level 16"},
+        {"id": "0065", "name": "Alakazam", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0065",
+      "name": "Alakazam",
+      "species": "Psi Pokémon",
+      "type": ["Psychic"],
+      "height_m": 1.5,
+      "weight_kg": 48.0,
+      "abilities": {
+        "primary": "Synchronize",
+        "secondary": "Inner Focus",
+        "hidden": "Magic Guard"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 50,
+        "defense": 45,
+        "sp_atk": 135,
+        "sp_def": 95,
+        "speed": 120,
+        "total": 500
+      },
+      "pokedex_entry": "Its brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It uses its psychokinetic power to hold up its head.",
+      "evolution_chain": [
+        {"id": "0063", "name": "Abra", "method": "None"},
+        {"id": "0064", "name": "Kadabra", "method": "Level 16"},
+        {"id": "0065", "name": "Alakazam", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0066",
+      "name": "Machop",
+      "species": "Superpower Pokémon",
+      "type": ["Fighting"],
+      "height_m": 0.8,
+      "weight_kg": 19.5,
+      "abilities": {
+        "primary": "Guts",
+        "secondary": "No Guard",
+        "hidden": "Steadfast"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 50,
+        "sp_atk": 35,
+        "sp_def": 35,
+        "speed": 35,
+        "total": 305
+      },
+      "pokedex_entry": "Loves to build its muscles. It trains by lifting rocks around it. If it lifts a Geodude, it's a sure sign of strength.",
+      "evolution_chain": [
+        {"id": "0066", "name": "Machop", "method": "None"},
+        {"id": "0067", "name": "Machoke", "method": "Level 28"},
+        {"id": "0068", "name": "Machamp", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0067",
+      "name": "Machoke",
+      "species": "Superpower Pokémon",
+      "type": ["Fighting"],
+      "height_m": 1.5,
+      "weight_kg": 70.5,
+      "abilities": {
+        "primary": "Guts",
+        "secondary": "No Guard",
+        "hidden": "Steadfast"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 70,
+        "sp_atk": 50,
+        "sp_def": 60,
+        "speed": 45,
+        "total": 405
+      },
+      "pokedex_entry": "A very powerful Pokémon, it is capable of lifting a sumo wrestler with one hand. It wears a belt to control its power.",
+      "evolution_chain": [
+        {"id": "0066", "name": "Machop", "method": "None"},
+        {"id": "0067", "name": "Machoke", "method": "Level 28"},
+        {"id": "0068", "name": "Machamp", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0068",
+      "name": "Machamp",
+      "species": "Superpower Pokémon",
+      "type": ["Fighting"],
+      "height_m": 1.6,
+      "weight_kg": 130.0,
+      "abilities": {
+        "primary": "Guts",
+        "secondary": "No Guard",
+        "hidden": "Steadfast"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 80,
+        "sp_atk": 65,
+        "sp_def": 85,
+        "speed": 55,
+        "total": 505
+      },
+      "pokedex_entry": "Using its four arms, it can launch 1,000 punches in two seconds. It can even move mountains.",
+      "evolution_chain": [
+        {"id": "0066", "name": "Machop", "method": "None"},
+        {"id": "0067", "name": "Machoke", "method": "Level 28"},
+        {"id": "0068", "name": "Machamp", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0069",
+      "name": "Bellsprout",
+      "species": "Flower Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 0.7,
+      "weight_kg": 4.0,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Gluttony"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 35,
+        "sp_atk": 70,
+        "sp_def": 30,
+        "speed": 40,
+        "total": 300
+      },
+      "pokedex_entry": "A carnivorous Pokémon that plants its feet in the ground and uses its vine whips to catch unwary prey.",
+      "evolution_chain": [
+        {"id": "0069", "name": "Bellsprout", "method": "None"},
+        {"id": "0070", "name": "Weepinbell", "method": "Level 21"},
+        {"id": "0071", "name": "Victreebel", "method": "Leaf Stone"}
+      ]
+    },
+    {
+      "id": "0070",
+      "name": "Weepinbell",
+      "species": "Flycatcher Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 1.0,
+      "weight_kg": 6.4,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Gluttony"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 50,
+        "sp_atk": 85,
+        "sp_def": 45,
+        "speed": 55,
+        "total": 390
+      },
+      "pokedex_entry": "It has a large hook on its rear end. The hook is used to anchor itself to the ground when it sleeps.",
+      "evolution_chain": [
+        {"id": "0069", "name": "Bellsprout", "method": "None"},
+        {"id": "0070", "name": "Weepinbell", "method": "Level 21"},
+        {"id": "0071", "name": "Victreebel", "method": "Leaf Stone"}
+      ]
+    },
+    {
+      "id": "0071",
+      "name": "Victreebel",
+      "species": "Flycatcher Pokémon",
+      "type": ["Grass", "Poison"],
+      "height_m": 1.7,
+      "weight_kg": 15.5,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Gluttony"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp_atk": 100,
+        "sp_def": 70,
+        "speed": 70,
+        "total": 490
+      },
+      "pokedex_entry": "Lures prey with the sweet aroma of its flower, then swallows them whole. It's rumored to dissolve prey in a minute.",
+      "evolution_chain": [
+        {"id": "0069", "name": "Bellsprout", "method": "None"},
+        {"id": "0070", "name": "Weepinbell", "method": "Level 21"},
+        {"id": "0071", "name": "Victreebel", "method": "Leaf Stone"}
+      ]
+    },
+    {
+      "id": "0072",
+      "name": "Tentacool",
+      "species": "Jellyfish Pokémon",
+      "type": ["Water", "Poison"],
+      "height_m": 0.9,
+      "weight_kg": 45.5,
+      "abilities": {
+        "primary": "Clear Body",
+        "secondary": "Liquid Ooze",
+        "hidden": "Rain Dish"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "sp_atk": 50,
+        "sp_def": 100,
+        "speed": 70,
+        "total": 335
+      },
+      "pokedex_entry": "Drifts in shallow seas. Contact with its tentacles causes an agonizing sting.",
+      "evolution_chain": [
+        {"id": "0072", "name": "Tentacool", "method": "None"},
+        {"id": "0073", "name": "Tentacruel", "method": "Level 30"}
+      ]
+    },
+    {
+      "id": "0073",
+      "name": "Tentacruel",
+      "species": "Jellyfish Pokémon",
+      "type": ["Water", "Poison"],
+      "height_m": 1.6,
+      "weight_kg": 55.0,
+      "abilities": {
+        "primary": "Clear Body",
+        "secondary": "Liquid Ooze",
+        "hidden": "Rain Dish"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 65,
+        "sp_atk": 80,
+        "sp_def": 120,
+        "speed": 100,
+        "total": 515
+      },
+      "pokedex_entry": "Its 80 tentacles can stretch out to ensnare its prey and inject venom. Its tentacles form a net to catch food.",
+      "evolution_chain": [
+        {"id": "0072", "name": "Tentacool", "method": "None"},
+        {"id": "0073", "name": "Tentacruel", "method": "Level 30"}
+      ]
+    },
+    {
+      "id": "0074",
+      "name": "Geodude",
+      "species": "Rock Pokémon",
+      "type": ["Rock", "Ground"],
+      "height_m": 0.4,
+      "weight_kg": 20.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Sturdy",
+        "hidden": "Sand Veil"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "sp_atk": 30,
+        "sp_def": 30,
+        "speed": 20,
+        "total": 300
+      },
+      "pokedex_entry": "Found in fields and mountains. The deeper it lives, the more its body is polished by the wind and rain.",
+      "evolution_chain": [
+        {"id": "0074", "name": "Geodude", "method": "None"},
+        {"id": "0075", "name": "Graveler", "method": "Level 25"},
+        {"id": "0076", "name": "Golem", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0075",
+      "name": "Graveler",
+      "species": "Rock Pokémon",
+      "type": ["Rock", "Ground"],
+      "height_m": 1.0,
+      "weight_kg": 105.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Sturdy",
+        "hidden": "Sand Veil"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 95,
+        "defense": 115,
+        "sp_atk": 45,
+        "sp_def": 45,
+        "speed": 35,
+        "total": 390
+      },
+      "pokedex_entry": "Rolls down slopes to move. It's said to live in crevices on mountain cliffs. It often tumbles down steep paths.",
+      "evolution_chain": [
+        {"id": "0074", "name": "Geodude", "method": "None"},
+        {"id": "0075", "name": "Graveler", "method": "Level 25"},
+        {"id": "0076", "name": "Golem", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0076",
+      "name": "Golem",
+      "species": "Megaton Pokémon",
+      "type": ["Rock", "Ground"],
+      "height_m": 1.4,
+      "weight_kg": 300.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Sturdy",
+        "hidden": "Sand Veil"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 130,
+        "sp_atk": 55,
+        "sp_def": 65,
+        "speed": 45,
+        "total": 495
+      },
+      "pokedex_entry": "Its body is a giant rock shell. It sheds its shell once a year. The shed shell quickly hardens, so it is often mistaken for a boulder.",
+      "evolution_chain": [
+        {"id": "0074", "name": "Geodude", "method": "None"},
+        {"id": "0075", "name": "Graveler", "method": "Level 25"},
+        {"id": "0076", "name": "Golem", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0077",
+      "name": "Ponyta",
+      "species": "Fire Horse Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.0,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Flash Fire",
+        "hidden": "Flame Body"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "sp_atk": 65,
+        "sp_def": 65,
+        "speed": 90,
+        "total": 410
+      },
+      "pokedex_entry": "Its mane is made of intense flames. It is capable of jumping over the Eiffel Tower in a single bound.",
+      "evolution_chain": [
+        {"id": "0077", "name": "Ponyta", "method": "None"},
+        {"id": "0078", "name": "Rapidash", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0078",
+      "name": "Rapidash",
+      "species": "Fire Horse Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.7,
+      "weight_kg": 95.0,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Flash Fire",
+        "hidden": "Flame Body"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 105,
+        "total": 500
+      },
+      "pokedex_entry": "As it runs, it appears to be ablaze. With incredible speed, it can catch up to a bullet train.",
+      "evolution_chain": [
+        {"id": "0077", "name": "Ponyta", "method": "None"},
+        {"id": "0078", "name": "Rapidash", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0079",
+      "name": "Slowpoke",
+      "species": "Dopey Pokémon",
+      "type": ["Water", "Psychic"],
+      "height_m": 1.2,
+      "weight_kg": 36.0,
+      "abilities": {
+        "primary": "Oblivious",
+        "secondary": "Own Tempo",
+        "hidden": "Regenerator"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 65,
+        "sp_atk": 40,
+        "sp_def": 40,
+        "speed": 15,
+        "total": 315
+      },
+      "pokedex_entry": "Incredibly slow and dim-witted. It takes 5 seconds for it to feel pain, even when bitten.",
+      "evolution_chain": [
+        {"id": "0079", "name": "Slowpoke", "method": "None"},
+        {"id": "0080", "name": "Slowbro", "method": "Level 37"},
+        {"id": "0199", "name": "Slowking", "method": "Trade w/ King's Rock (later gens)"}
+      ]
+    },
+    {
+      "id": "0080",
+      "name": "Slowbro",
+      "species": "Hermit Crab Pokémon",
+      "type": ["Water", "Psychic"],
+      "height_m": 1.6,
+      "weight_kg": 78.5,
+      "abilities": {
+        "primary": "Oblivious",
+        "secondary": "Own Tempo",
+        "hidden": "Regenerator"
+      },
+      "base_stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 110,
+        "sp_atk": 100,
+        "sp_def": 80,
+        "speed": 30,
+        "total": 490
+      },
+      "pokedex_entry": "A Shellder that latched onto its tail has developed into a new species. The Shellder's bite activates its psychic powers.",
+      "evolution_chain": [
+        {"id": "0079", "name": "Slowpoke", "method": "None"},
+        {"id": "0080", "name": "Slowbro", "method": "Level 37"},
+        {"id": "0199", "name": "Slowking", "method": "Trade w/ King's Rock (later gens)"}
+      ]
+    },
+    {
+      "id": "0081",
+      "name": "Magnemite",
+      "species": "Magnet Pokémon",
+      "type": ["Electric", "Steel"],
+      "height_m": 0.3,
+      "weight_kg": 6.0,
+      "abilities": {
+        "primary": "Magnet Pull",
+        "secondary": "Sturdy",
+        "hidden": "Analytic"
+      },
+      "base_stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 70,
+        "sp_atk": 95,
+        "sp_def": 55,
+        "speed": 45,
+        "total": 325
+      },
+      "pokedex_entry": "The magnets at its sides generate an electromagnetic field that can neutralize enemy attacks.",
+      "evolution_chain": [
+        {"id": "0081", "name": "Magnemite", "method": "None"},
+        {"id": "0082", "name": "Magneton", "method": "Level 30"},
+        {"id": "0462", "name": "Magnezone", "method": "Lvl Up in specific field/w Thunder Stone (later gens)"}
+      ]
+    },
+    {
+      "id": "0082",
+      "name": "Magneton",
+      "species": "Magnet Pokémon",
+      "type": ["Electric", "Steel"],
+      "height_m": 1.0,
+      "weight_kg": 60.0,
+      "abilities": {
+        "primary": "Magnet Pull",
+        "secondary": "Sturdy",
+        "hidden": "Analytic"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 95,
+        "sp_atk": 120,
+        "sp_def": 70,
+        "speed": 70,
+        "total": 465
+      },
+      "pokedex_entry": "A Magneton is two Magnemite joined together. A group of Magneton can generate powerful electromagnetic storms.",
+      "evolution_chain": [
+        {"id": "0081", "name": "Magnemite", "method": "None"},
+        {"id": "0082", "name": "Magneton", "method": "Level 30"},
+        {"id": "0462", "name": "Magnezone", "method": "Lvl Up in specific field/w Thunder Stone (later gens)"}
+      ]
+    },
+    {
+      "id": "0083",
+      "name": "Farfetch'd",
+      "species": "Wild Duck Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 0.8,
+      "weight_kg": 15.0,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": "Inner Focus",
+        "hidden": "Defiant"
+      },
+      "base_stats": {
+        "hp": 52,
+        "attack": 90,
+        "defense": 55,
+        "sp_atk": 58,
+        "sp_def": 62,
+        "speed": 60,
+        "total": 377
+      },
+      "pokedex_entry": "The plant stalk it holds is both its weapon and its food. It is always seen with this plant, which it defends vigorously.",
+      "evolution_chain": [
+        {"id": "0083", "name": "Farfetch'd", "method": "Does not evolve (Sirfetch'd in later gens)"}
+      ]
+    },
+    {
+      "id": "0084",
+      "name": "Doduo",
+      "species": "Twin Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 1.4,
+      "weight_kg": 39.2,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Early Bird",
+        "hidden": "Tangled Feet"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "sp_atk": 35,
+        "sp_def": 35,
+        "speed": 75,
+        "total": 310
+      },
+      "pokedex_entry": "A two-headed Pokémon that was discovered in a grassy field. It runs at high speed by alternating its two feet.",
+      "evolution_chain": [
+        {"id": "0084", "name": "Doduo", "method": "None"},
+        {"id": "0085", "name": "Dodrio", "method": "Level 31"}
+      ]
+    },
+    {
+      "id": "0085",
+      "name": "Dodrio",
+      "species": "Triple Bird Pokémon",
+      "type": ["Normal", "Flying"],
+      "height_m": 1.8,
+      "weight_kg": 85.2,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Early Bird",
+        "hidden": "Tangled Feet"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 110,
+        "defense": 70,
+        "sp_atk": 60,
+        "sp_def": 60,
+        "speed": 100,
+        "total": 460
+      },
+      "pokedex_entry": "Uses its three brains to plan. Each head represents a different emotion: joy, sorrow, and anger.",
+      "evolution_chain": [
+        {"id": "0084", "name": "Doduo", "method": "None"},
+        {"id": "0085", "name": "Dodrio", "method": "Level 31"}
+      ]
+    },
+    {
+      "id": "0086",
+      "name": "Seel",
+      "species": "Sea Lion Pokémon",
+      "type": ["Water"],
+      "height_m": 1.1,
+      "weight_kg": 90.0,
+      "abilities": {
+        "primary": "Thick Fat",
+        "secondary": "Hydration",
+        "hidden": "Ice Body"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 55,
+        "sp_atk": 45,
+        "sp_def": 70,
+        "speed": 45,
+        "total": 325
+      },
+      "pokedex_entry": "A Pokémon that lives on icebergs. It is a very good swimmer and is rarely seen on land.",
+      "evolution_chain": [
+        {"id": "0086", "name": "Seel", "method": "None"},
+        {"id": "0087", "name": "Dewgong", "method": "Level 34"}
+      ]
+    },
+    {
+      "id": "0087",
+      "name": "Dewgong",
+      "species": "Sea Lion Pokémon",
+      "type": ["Water", "Ice"],
+      "height_m": 1.7,
+      "weight_kg": 120.0,
+      "abilities": {
+        "primary": "Thick Fat",
+        "secondary": "Hydration",
+        "hidden": "Ice Body"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 70,
+        "defense": 80,
+        "sp_atk": 70,
+        "sp_def": 95,
+        "speed": 70,
+        "total": 475
+      },
+      "pokedex_entry": "Stores thermal energy in its body, allowing it to move freely in the coldest of seas. It loves to sleep on ice.",
+      "evolution_chain": [
+        {"id": "0086", "name": "Seel", "method": "None"},
+        {"id": "0087", "name": "Dewgong", "method": "Level 34"}
+      ]
+    },
+    {
+      "id": "0088",
+      "name": "Grimer",
+      "species": "Sludge Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.9,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Stench",
+        "secondary": "Sticky Hold",
+        "hidden": "Poison Touch"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 25,
+        "total": 325
+      },
+      "pokedex_entry": "Appears in dirty, neglected places. It likes to eat garbage and sludge. It multiplies when its sludge is broken apart.",
+      "evolution_chain": [
+        {"id": "0088", "name": "Grimer", "method": "None"},
+        {"id": "0089", "name": "Muk", "method": "Level 38"}
+      ]
+    },
+    {
+      "id": "0089",
+      "name": "Muk",
+      "species": "Sludge Pokémon",
+      "type": ["Poison"],
+      "height_m": 1.2,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Stench",
+        "secondary": "Sticky Hold",
+        "hidden": "Poison Touch"
+      },
+      "base_stats": {
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "sp_atk": 65,
+        "sp_def": 100,
+        "speed": 50,
+        "total": 500
+      },
+      "pokedex_entry": "A toxic sludge made of industrial waste. It smells horribly, but the stench is reduced by the time it reaches cities.",
+      "evolution_chain": [
+        {"id": "0088", "name": "Grimer", "method": "None"},
+        {"id": "0089", "name": "Muk", "method": "Level 38"}
+      ]
+    },
+    {
+      "id": "0090",
+      "name": "Shellder",
+      "species": "Bivalve Pokémon",
+      "type": ["Water"],
+      "height_m": 0.3,
+      "weight_kg": 4.0,
+      "abilities": {
+        "primary": "Shell Armor",
+        "secondary": "Skill Link",
+        "hidden": "Overcoat"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "sp_atk": 45,
+        "sp_def": 25,
+        "speed": 40,
+        "total": 305
+      },
+      "pokedex_entry": "Its shell is harder than a diamond. When attacking, it uses its sharp tongue to stab at opponents.",
+      "evolution_chain": [
+        {"id": "0090", "name": "Shellder", "method": "None"},
+        {"id": "0091", "name": "Cloyster", "method": "Water Stone"}
+      ]
+    },
+    {
+      "id": "0091",
+      "name": "Cloyster",
+      "species": "Bivalve Pokémon",
+      "type": ["Water", "Ice"],
+      "height_m": 1.5,
+      "weight_kg": 132.5,
+      "abilities": {
+        "primary": "Shell Armor",
+        "secondary": "Skill Link",
+        "hidden": "Overcoat"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 180,
+        "sp_atk": 85,
+        "sp_def": 45,
+        "speed": 70,
+        "total": 525
+      },
+      "pokedex_entry": "Its shell is covered in a layer of tough armor. It can fire sharp spikes from its core at high speeds.",
+      "evolution_chain": [
+        {"id": "0090", "name": "Shellder", "method": "None"},
+        {"id": "0091", "name": "Cloyster", "method": "Water Stone"}
+      ]
+    },
+    {
+      "id": "0092",
+      "name": "Gastly",
+      "species": "Gas Pokémon",
+      "type": ["Ghost", "Poison"],
+      "height_m": 1.3,
+      "weight_kg": 0.1,
+      "abilities": {
+        "primary": "Levitate",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "sp_atk": 100,
+        "sp_def": 35,
+        "speed": 80,
+        "total": 310
+      },
+      "pokedex_entry": "A Pokémon made of poison gas. It is said that when a person is in the dark, Gastly will appear and lick their face.",
+      "evolution_chain": [
+        {"id": "0092", "name": "Gastly", "method": "None"},
+        {"id": "0093", "name": "Haunter", "method": "Level 25"},
+        {"id": "0094", "name": "Gengar", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0093",
+      "name": "Haunter",
+      "species": "Gas Pokémon",
+      "type": ["Ghost", "Poison"],
+      "height_m": 1.6,
+      "weight_kg": 0.1,
+      "abilities": {
+        "primary": "Levitate",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 45,
+        "sp_atk": 115,
+        "sp_def": 55,
+        "speed": 95,
+        "total": 405
+      },
+      "pokedex_entry": "Its tongue is made of gas. If licked, the victim starts shaking uncontrollably until death.",
+      "evolution_chain": [
+        {"id": "0092", "name": "Gastly", "method": "None"},
+        {"id": "0093", "name": "Haunter", "method": "Level 25"},
+        {"id": "0094", "name": "Gengar", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0094",
+      "name": "Gengar",
+      "species": "Shadow Pokémon",
+      "type": ["Ghost", "Poison"],
+      "height_m": 1.5,
+      "weight_kg": 40.5,
+      "abilities": {
+        "primary": "Cursed Body",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "sp_atk": 130,
+        "sp_def": 75,
+        "speed": 110,
+        "total": 500
+      },
+      "pokedex_entry": "Hides in the shadows. It is said to share its fate with the person whose shadow it has stolen.",
+      "evolution_chain": [
+        {"id": "0092", "name": "Gastly", "method": "None"},
+        {"id": "0093", "name": "Haunter", "method": "Level 25"},
+        {"id": "0094", "name": "Gengar", "method": "Trade"}
+      ]
+    },
+    {
+      "id": "0095",
+      "name": "Onix",
+      "species": "Rock Snake Pokémon",
+      "type": ["Rock", "Ground"],
+      "height_m": 8.8,
+      "weight_kg": 210.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Sturdy",
+        "hidden": "Weak Armor"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "sp_atk": 30,
+        "sp_def": 45,
+        "speed": 70,
+        "total": 385
+      },
+      "pokedex_entry": "As it digs, it swallows earth and boulders. This is why its body contains many hard minerals.",
+      "evolution_chain": [
+        {"id": "0095", "name": "Onix", "method": "None"},
+        {"id": "0208", "name": "Steelix", "method": "Trade w/ Metal Coat (later gens)"}
+      ]
+    },
+    {
+      "id": "0096",
+      "name": "Drowzee",
+      "species": "Hypnosis Pokémon",
+      "type": ["Psychic"],
+      "height_m": 1.0,
+      "weight_kg": 32.4,
+      "abilities": {
+        "primary": "Insomnia",
+        "secondary": "Forewarn",
+        "hidden": "Inner Focus"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "sp_atk": 43,
+        "sp_def": 90,
+        "speed": 42,
+        "total": 328
+      },
+      "pokedex_entry": "It can tell what people are dreaming by sniffing with its big nose. It eats dreams.",
+      "evolution_chain": [
+        {"id": "0096", "name": "Drowzee", "method": "None"},
+        {"id": "0097", "name": "Hypno", "method": "Level 26"}
+      ]
+    },
+    {
+      "id": "0097",
+      "name": "Hypno",
+      "species": "Hypnosis Pokémon",
+      "type": ["Psychic"],
+      "height_m": 1.6,
+      "weight_kg": 75.6,
+      "abilities": {
+        "primary": "Insomnia",
+        "secondary": "Forewarn",
+        "hidden": "Inner Focus"
+      },
+      "base_stats": {
+        "hp": 85,
+        "attack": 73,
+        "defense": 70,
+        "sp_atk": 73,
+        "sp_def": 115,
+        "speed": 67,
+        "total": 483
+      },
+      "pokedex_entry": "It carries a pendulum that swings gently. Watching the pendulum can cause a person to fall asleep.",
+      "evolution_chain": [
+        {"id": "0096", "name": "Drowzee", "method": "None"},
+        {"id": "0097", "name": "Hypno", "method": "Level 26"}
+      ]
+    },
+    {
+      "id": "0098",
+      "name": "Krabby",
+      "species": "River Crab Pokémon",
+      "type": ["Water"],
+      "height_m": 0.4,
+      "weight_kg": 6.5,
+      "abilities": {
+        "primary": "Hyper Cutter",
+        "secondary": "Shell Armor",
+        "hidden": "Sheer Force"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "sp_atk": 25,
+        "sp_def": 25,
+        "speed": 50,
+        "total": 325
+      },
+      "pokedex_entry": "Its hard shell is for protection. It can also use its massive claw to deliver crushing blows.",
+      "evolution_chain": [
+        {"id": "0098", "name": "Krabby", "method": "None"},
+        {"id": "0099", "name": "Kingler", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0099",
+      "name": "Kingler",
+      "species": "Pincer Pokémon",
+      "type": ["Water"],
+      "height_m": 1.3,
+      "weight_kg": 60.0,
+      "abilities": {
+        "primary": "Hyper Cutter",
+        "secondary": "Shell Armor",
+        "hidden": "Sheer Force"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 75,
+        "total": 475
+      },
+      "pokedex_entry": "One of its claws is gigantic. It is said that this massive claw can shatter rock, but Kingler cannot use it well in battle.",
+      "evolution_chain": [
+        {"id": "0098", "name": "Krabby", "method": "None"},
+        {"id": "0099", "name": "Kingler", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0100",
+      "name": "Voltorb",
+      "species": "Ball Pokémon",
+      "type": ["Electric"],
+      "height_m": 0.5,
+      "weight_kg": 10.4,
+      "abilities": {
+        "primary": "Soundproof",
+        "secondary": "Static",
+        "hidden": "Aftermath"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 50,
+        "sp_atk": 55,
+        "sp_def": 55,
+        "speed": 100,
+        "total": 330
+      },
+      "pokedex_entry": "Usually found in power plants. They are often mistaken for Poké Balls and are known to explode when disturbed.",
+      "evolution_chain": [
+        {"id": "0100", "name": "Voltorb", "method": "None"},
+        {"id": "0101", "name": "Electrode", "method": "Level 30"}
+      ]
+    },
+    {
+      "id": "0101",
+      "name": "Electrode",
+      "species": "Ball Pokémon",
+      "type": ["Electric"],
+      "height_m": 1.2,
+      "weight_kg": 66.6,
+      "abilities": {
+        "primary": "Soundproof",
+        "secondary": "Static",
+        "hidden": "Aftermath"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 70,
+        "sp_atk": 80,
+        "sp_def": 80,
+        "speed": 150,
+        "total": 480
+      },
+      "pokedex_entry": "The fastest Pokémon. The more energy it stores, the faster it moves. It can be a very dangerous sight in open fields.",
+      "evolution_chain": [
+        {"id": "0100", "name": "Voltorb", "method": "None"},
+        {"id": "0101", "name": "Electrode", "method": "Level 30"}
+      ]
+    },
+    {
+      "id": "0102",
+      "name": "Exeggcute",
+      "species": "Egg Pokémon",
+      "type": ["Grass", "Psychic"],
+      "height_m": 0.4,
+      "weight_kg": 2.5,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Harvest"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 80,
+        "sp_atk": 60,
+        "sp_def": 45,
+        "speed": 40,
+        "total": 325
+      },
+      "pokedex_entry": "Its six eggs are said to be connected. If separated, they quickly gather and spin to get back together.",
+      "evolution_chain": [
+        {"id": "0102", "name": "Exeggcute", "method": "None"},
+        {"id": "0103", "name": "Exeggutor", "method": "Leaf Stone"}
+      ]
+    },
+    {
+      "id": "0103",
+      "name": "Exeggutor",
+      "species": "Coconut Pokémon",
+      "type": ["Grass", "Psychic"],
+      "height_m": 2.0,
+      "weight_kg": 120.0,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": null,
+        "hidden": "Harvest"
+      },
+      "base_stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 85,
+        "sp_atk": 125,
+        "sp_def": 75,
+        "speed": 55,
+        "total": 530
+      },
+      "pokedex_entry": "Three heads that think independently. One head will wake up and start crying, causing the others to cry out as well.",
+      "evolution_chain": [
+        {"id": "0102", "name": "Exeggcute", "method": "None"},
+        {"id": "0103", "name": "Exeggutor", "method": "Leaf Stone"}
+      ]
+    },
+    {
+      "id": "0104",
+      "name": "Cubone",
+      "species": "Lonely Pokémon",
+      "type": ["Ground"],
+      "height_m": 0.4,
+      "weight_kg": 6.5,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Lightning Rod",
+        "hidden": "Battle Armor"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 95,
+        "sp_atk": 40,
+        "sp_def": 50,
+        "speed": 35,
+        "total": 320
+      },
+      "pokedex_entry": "It wears the skull of its deceased mother. The skull is its helmet, which makes it feel safe.",
+      "evolution_chain": [
+        {"id": "0104", "name": "Cubone", "method": "None"},
+        {"id": "0105", "name": "Marowak", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0105",
+      "name": "Marowak",
+      "species": "Bone Keeper Pokémon",
+      "type": ["Ground"],
+      "height_m": 1.0,
+      "weight_kg": 45.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Lightning Rod",
+        "hidden": "Battle Armor"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "sp_atk": 50,
+        "sp_def": 80,
+        "speed": 45,
+        "total": 425
+      },
+      "pokedex_entry": "The bone it holds is its deceased mother's. It strikes with its bone like a boomerang.",
+      "evolution_chain": [
+        {"id": "0104", "name": "Cubone", "method": "None"},
+        {"id": "0105", "name": "Marowak", "method": "Level 28"}
+      ]
+    },
+    {
+      "id": "0106",
+      "name": "Hitmonlee",
+      "species": "Kicking Pokémon",
+      "type": ["Fighting"],
+      "height_m": 1.5,
+      "weight_kg": 49.8,
+      "abilities": {
+        "primary": "Limber",
+        "secondary": "Reckless",
+        "hidden": "Unburden"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 120,
+        "defense": 53,
+        "sp_atk": 35,
+        "sp_def": 110,
+        "speed": 87,
+        "total": 455
+      },
+      "pokedex_entry": "Its legs freely contract and stretch. Using its legs, it can kick even the most distant foes.",
+      "evolution_chain": [
+        {"id": "0236", "name": "Tyrogue", "method": "None (later gens)"},
+        {"id": "0106", "name": "Hitmonlee", "method": "Level 20 (Attack > Defense)"}
+      ]
+    },
+    {
+      "id": "0107",
+      "name": "Hitmonchan",
+      "species": "Punching Pokémon",
+      "type": ["Fighting"],
+      "height_m": 1.4,
+      "weight_kg": 50.2,
+      "abilities": {
+        "primary": "Keen Eye",
+        "secondary": "Iron Fist",
+        "hidden": "Inner Focus"
+      },
+      "base_stats": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 79,
+        "sp_atk": 35,
+        "sp_def": 110,
+        "speed": 76,
+        "total": 455
+      },
+      "pokedex_entry": "Has the spirit of a boxer who trained for years. It punches at the speed of a bullet.",
+      "evolution_chain": [
+        {"id": "0236", "name": "Tyrogue", "method": "None (later gens)"},
+        {"id": "0107", "name": "Hitmonchan", "method": "Level 20 (Attack < Defense)"}
+      ]
+    },
+    {
+      "id": "0108",
+      "name": "Lickitung",
+      "species": "Licking Pokémon",
+      "type": ["Normal"],
+      "height_m": 1.2,
+      "weight_kg": 65.5,
+      "abilities": {
+        "primary": "Own Tempo",
+        "secondary": "Oblivious",
+        "hidden": "Cloud Nine"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 55,
+        "defense": 75,
+        "sp_atk": 60,
+        "sp_def": 75,
+        "speed": 30,
+        "total": 385
+      },
+      "pokedex_entry": "Its long tongue is always covered in a sticky saliva that never dries out. It can use its tongue to clean anything.",
+      "evolution_chain": [
+        {"id": "0108", "name": "Lickitung", "method": "None"},
+        {"id": "0463", "name": "Lickilicky", "method": "Lvl Up w/ Rollout (later gens)"}
+      ]
+    },
+    {
+      "id": "0109",
+      "name": "Koffing",
+      "species": "Poison Gas Pokémon",
+      "type": ["Poison"],
+      "height_m": 0.6,
+      "weight_kg": 1.0,
+      "abilities": {
+        "primary": "Levitate",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 95,
+        "sp_atk": 60,
+        "sp_def": 45,
+        "speed": 35,
+        "total": 340
+      },
+      "pokedex_entry": "A Pokémon that is composed of poison gas. It is said to have been created in a chemical reaction.",
+      "evolution_chain": [
+        {"id": "0109", "name": "Koffing", "method": "None"},
+        {"id": "0110", "name": "Weezing", "method": "Level 35"}
+      ]
+    },
+    {
+      "id": "0110",
+      "name": "Weezing",
+      "species": "Poison Gas Pokémon",
+      "type": ["Poison"],
+      "height_m": 1.2,
+      "weight_kg": 9.5,
+      "abilities": {
+        "primary": "Levitate",
+        "secondary": null,
+        "hidden": null
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "sp_atk": 85,
+        "sp_def": 70,
+        "speed": 60,
+        "total": 490
+      },
+      "pokedex_entry": "When it inhales, it takes in poisonous fumes. When it exhales, it releases a cloud of toxins that can clear a room.",
+      "evolution_chain": [
+        {"id": "0109", "name": "Koffing", "method": "None"},
+        {"id": "0110", "name": "Weezing", "method": "Level 35"}
+      ]
+    },
+    {
+      "id": "0111",
+      "name": "Rhyhorn",
+      "species": "Spikes Pokémon",
+      "type": ["Ground", "Rock"],
+      "height_m": 1.0,
+      "weight_kg": 115.0,
+      "abilities": {
+        "primary": "Lightning Rod",
+        "secondary": "Rock Head",
+        "hidden": "Reckless"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 85,
+        "defense": 95,
+        "sp_atk": 30,
+        "sp_def": 30,
+        "speed": 25,
+        "total": 345
+      },
+      "pokedex_entry": "Its horn is hard enough to crush a diamond. It is known to run through anything it sees.",
+      "evolution_chain": [
+        {"id": "0111", "name": "Rhyhorn", "method": "None"},
+        {"id": "0112", "name": "Rhydon", "method": "Level 42"},
+        {"id": "0464", "name": "Rhyperior", "method": "Trade w/ Protector (later gens)"}
+      ]
+    },
+    {
+      "id": "0112",
+      "name": "Rhydon",
+      "species": "Drill Pokémon",
+      "type": ["Ground", "Rock"],
+      "height_m": 1.9,
+      "weight_kg": 120.0,
+      "abilities": {
+        "primary": "Lightning Rod",
+        "secondary": "Rock Head",
+        "hidden": "Reckless"
+      },
+      "base_stats": {
+        "hp": 105,
+        "attack": 130,
+        "defense": 120,
+        "sp_atk": 45,
+        "sp_def": 45,
+        "speed": 40,
+        "total": 485
+      },
+      "pokedex_entry": "The horn on its head can rotate like a drill and shatter diamonds. It is protected by an incredibly thick hide.",
+      "evolution_chain": [
+        {"id": "0111", "name": "Rhyhorn", "method": "None"},
+        {"id": "0112", "name": "Rhydon", "method": "Level 42"},
+        {"id": "0464", "name": "Rhyperior", "method": "Trade w/ Protector (later gens)"}
+      ]
+    },
+    {
+      "id": "0113",
+      "name": "Chansey",
+      "species": "Egg Pokémon",
+      "type": ["Normal"],
+      "height_m": 1.1,
+      "weight_kg": 34.6,
+      "abilities": {
+        "primary": "Natural Cure",
+        "secondary": "Serene Grace",
+        "hidden": "Healer"
+      },
+      "base_stats": {
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "sp_atk": 35,
+        "sp_def": 105,
+        "speed": 50,
+        "total": 450
+      },
+      "pokedex_entry": "A rare and tenderhearted Pokémon that shares its highly nutritious eggs with injured people.",
+      "evolution_chain": [
+        {"id": "0440", "name": "Happiny", "method": "None (later gens)"},
+        {"id": "0113", "name": "Chansey", "method": "High Friendship"},
+        {"id": "0242", "name": "Blissey", "method": "High Friendship (later gens)"}
+      ]
+    },
+    {
+      "id": "0114",
+      "name": "Tangela",
+      "species": "Vine Pokémon",
+      "type": ["Grass"],
+      "height_m": 1.0,
+      "weight_kg": 35.0,
+      "abilities": {
+        "primary": "Chlorophyll",
+        "secondary": "Leaf Guard",
+        "hidden": "Regenerator"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 55,
+        "defense": 115,
+        "sp_atk": 100,
+        "sp_def": 40,
+        "speed": 60,
+        "total": 435
+      },
+      "pokedex_entry": "Its body is shrouded in blue vines. Nobody has ever seen its face or its body underneath the vines.",
+      "evolution_chain": [
+        {"id": "0114", "name": "Tangela", "method": "None"},
+        {"id": "0465", "name": "Tangrowth", "method": "Lvl Up w/ Ancient Power (later gens)"}
+      ]
+    },
+    {
+      "id": "0115",
+      "name": "Kangaskhan",
+      "species": "Parent Pokémon",
+      "type": ["Normal"],
+      "height_m": 2.2,
+      "weight_kg": 80.0,
+      "abilities": {
+        "primary": "Early Bird",
+        "secondary": "Scrappy",
+        "hidden": "Inner Focus"
+      },
+      "base_stats": {
+        "hp": 105,
+        "attack": 95,
+        "defense": 80,
+        "sp_atk": 40,
+        "sp_def": 80,
+        "speed": 90,
+        "total": 490
+      },
+      "pokedex_entry": "If it senses danger to its baby, it will attack without hesitation. It rarely lets the baby out of its pouch.",
+      "evolution_chain": [
+        {"id": "0115", "name": "Kangaskhan", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0116",
+      "name": "Horsea",
+      "species": "Dragon Pokémon",
+      "type": ["Water"],
+      "height_m": 0.4,
+      "weight_kg": 8.0,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Sniper",
+        "hidden": "Damp"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "sp_atk": 70,
+        "sp_def": 25,
+        "speed": 60,
+        "total": 295
+      },
+      "pokedex_entry": "Known to shoot ink from its mouth. It is a very playful Pokémon that lives in coral reefs.",
+      "evolution_chain": [
+        {"id": "0116", "name": "Horsea", "method": "None"},
+        {"id": "0117", "name": "Seadra", "method": "Level 32"},
+        {"id": "0230", "name": "Kingdra", "method": "Trade w/ Dragon Scale (later gens)"}
+      ]
+    },
+    {
+      "id": "0117",
+      "name": "Seadra",
+      "species": "Dragon Pokémon",
+      "type": ["Water"],
+      "height_m": 1.2,
+      "weight_kg": 25.0,
+      "abilities": {
+        "primary": "Poison Point",
+        "secondary": "Sniper",
+        "hidden": "Damp"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 65,
+        "defense": 95,
+        "sp_atk": 95,
+        "sp_def": 45,
+        "speed": 85,
+        "total": 440
+      },
+      "pokedex_entry": "The male is said to be the one who takes care of the offspring. It uses its venomous spikes in battle.",
+      "evolution_chain": [
+        {"id": "0116", "name": "Horsea", "method": "None"},
+        {"id": "0117", "name": "Seadra", "method": "Level 32"},
+        {"id": "0230", "name": "Kingdra", "method": "Trade w/ Dragon Scale (later gens)"}
+      ]
+    },
+    {
+      "id": "0118",
+      "name": "Goldeen",
+      "species": "Goldfish Pokémon",
+      "type": ["Water"],
+      "height_m": 0.6,
+      "weight_kg": 15.0,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Water Veil",
+        "hidden": "Lightning Rod"
+      },
+      "base_stats": {
+        "hp": 45,
+        "attack": 67,
+        "defense": 60,
+        "sp_atk": 35,
+        "sp_def": 50,
+        "speed": 63,
+        "total": 320
+      },
+      "pokedex_entry": "In the spring, these Pokémon travel up rivers to lay their eggs. It can swim at a high speed with its pectoral fins.",
+      "evolution_chain": [
+        {"id": "0118", "name": "Goldeen", "method": "None"},
+        {"id": "0119", "name": "Seaking", "method": "Level 33"}
+      ]
+    },
+    {
+      "id": "0119",
+      "name": "Seaking",
+      "species": "Goldfish Pokémon",
+      "type": ["Water"],
+      "height_m": 1.3,
+      "weight_kg": 39.0,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Water Veil",
+        "hidden": "Lightning Rod"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 92,
+        "defense": 65,
+        "sp_atk": 65,
+        "sp_def": 80,
+        "speed": 68,
+        "total": 450
+      },
+      "pokedex_entry": "The male of the species is the first to begin the mating dance. It uses its large horn to bore holes in river rocks for its nest.",
+      "evolution_chain": [
+        {"id": "0118", "name": "Goldeen", "method": "None"},
+        {"id": "0119", "name": "Seaking", "method": "Level 33"}
+      ]
+    },
+    {
+      "id": "0120",
+      "name": "Staryu",
+      "species": "Star Shape Pokémon",
+      "type": ["Water"],
+      "height_m": 0.8,
+      "weight_kg": 34.5,
+      "abilities": {
+        "primary": "Illuminate",
+        "secondary": "Natural Cure",
+        "hidden": "Analytic"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 45,
+        "defense": 55,
+        "sp_atk": 70,
+        "sp_def": 55,
+        "speed": 85,
+        "total": 340
+      },
+      "pokedex_entry": "If the core is glowing, it means that the Pokémon is healthy. It communicates with others by blinking its core.",
+      "evolution_chain": [
+        {"id": "0120", "name": "Staryu", "method": "None"},
+        {"id": "0121", "name": "Starmie", "method": "Water Stone"}
+      ]
+    },
+    {
+      "id": "0121",
+      "name": "Starmie",
+      "species": "Mysterious Pokémon",
+      "type": ["Water", "Psychic"],
+      "height_m": 1.1,
+      "weight_kg": 80.0,
+      "abilities": {
+        "primary": "Illuminate",
+        "secondary": "Natural Cure",
+        "hidden": "Analytic"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "sp_atk": 100,
+        "sp_def": 85,
+        "speed": 115,
+        "total": 520
+      },
+      "pokedex_entry": "Its core shines with the seven colors of the rainbow. It is believed that it sends electric waves into outer space.",
+      "evolution_chain": [
+        {"id": "0120", "name": "Staryu", "method": "None"},
+        {"id": "0121", "name": "Starmie", "method": "Water Stone"}
+      ]
+    },
+    {
+      "id": "0122",
+      "name": "Mr. Mime",
+      "species": "Barrier Pokémon",
+      "type": ["Psychic", "Fairy"],
+      "height_m": 1.3,
+      "weight_kg": 54.5,
+      "abilities": {
+        "primary": "Soundproof",
+        "secondary": "Filter",
+        "hidden": "Technician"
+      },
+      "base_stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 65,
+        "sp_atk": 100,
+        "sp_def": 120,
+        "speed": 90,
+        "total": 460
+      },
+      "pokedex_entry": "Its pantomime is so realistic that the audience members can see the invisible walls it creates.",
+      "evolution_chain": [
+        {"id": "0439", "name": "Mime Jr.", "method": "None (later gens)"},
+        {"id": "0122", "name": "Mr. Mime", "method": "Lvl Up w/ Mimic"}
+      ]
+    },
+    {
+      "id": "0123",
+      "name": "Scyther",
+      "species": "Mantis Pokémon",
+      "type": ["Bug", "Flying"],
+      "height_m": 1.5,
+      "weight_kg": 56.0,
+      "abilities": {
+        "primary": "Swarm",
+        "secondary": "Technician",
+        "hidden": "Steadfast"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "sp_atk": 55,
+        "sp_def": 80,
+        "speed": 105,
+        "total": 500
+      },
+      "pokedex_entry": "Strikes with its twin scythes. If it attacks in a flash, it can slash its foes before they even realize they've been cut.",
+      "evolution_chain": [
+        {"id": "0123", "name": "Scyther", "method": "None"},
+        {"id": "0212", "name": "Scizor", "method": "Trade w/ Metal Coat (later gens)"},
+        {"id": "0900", "name": "Kleavor", "method": "Use Black Augurite (later gens)"}
+      ]
+    },
+    {
+      "id": "0124",
+      "name": "Jynx",
+      "species": "Human Shape Pokémon",
+      "type": ["Ice", "Psychic"],
+      "height_m": 1.4,
+      "weight_kg": 40.6,
+      "abilities": {
+        "primary": "Oblivious",
+        "secondary": "Forewarn",
+        "hidden": "Dry Skin"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 50,
+        "defense": 35,
+        "sp_atk": 115,
+        "sp_def": 95,
+        "speed": 95,
+        "total": 455
+      },
+      "pokedex_entry": "A Pokémon that seems to be dancing while walking. It uses a human-like speech, which sounds like humming.",
+      "evolution_chain": [
+        {"id": "0238", "name": "Smoochum", "method": "None (later gens)"},
+        {"id": "0124", "name": "Jynx", "method": "Level 30"}
+      ]
+    },
+    {
+      "id": "0125",
+      "name": "Electabuzz",
+      "species": "Electric Pokémon",
+      "type": ["Electric"],
+      "height_m": 1.1,
+      "weight_kg": 30.0,
+      "abilities": {
+        "primary": "Static",
+        "secondary": null,
+        "hidden": "Vital Spirit"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
+        "sp_atk": 95,
+        "sp_def": 85,
+        "speed": 105,
+        "total": 490
+      },
+      "pokedex_entry": "Feeds on electricity. It can be found near power plants, where it uses the electricity to power up its body.",
+      "evolution_chain": [
+        {"id": "0239", "name": "Elekid", "method": "None (later gens)"},
+        {"id": "0125", "name": "Electabuzz", "method": "Level 30"},
+        {"id": "0466", "name": "Electivire", "method": "Trade w/ Electirizer (later gens)"}
+      ]
+    },
+    {
+      "id": "0126",
+      "name": "Magmar",
+      "species": "Spitfire Pokémon",
+      "type": ["Fire"],
+      "height_m": 1.3,
+      "weight_kg": 44.5,
+      "abilities": {
+        "primary": "Flame Body",
+        "secondary": null,
+        "hidden": "Vital Spirit"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 57,
+        "sp_atk": 100,
+        "sp_def": 85,
+        "speed": 93,
+        "total": 495
+      },
+      "pokedex_entry": "Born in volcanic craters. Its body temperature is 2,200 degrees Fahrenheit, allowing it to move freely in lava.",
+      "evolution_chain": [
+        {"id": "0240", "name": "Magby", "method": "None (later gens)"},
+        {"id": "0126", "name": "Magmar", "method": "Level 30"},
+        {"id": "0467", "name": "Magmortar", "method": "Trade w/ Magmarizer (later gens)"}
+      ]
+    },
+    {
+      "id": "0127",
+      "name": "Pinsir",
+      "species": "Stag Beetle Pokémon",
+      "type": ["Bug"],
+      "height_m": 1.5,
+      "weight_kg": 55.0,
+      "abilities": {
+        "primary": "Hyper Cutter",
+        "secondary": "Mold Breaker",
+        "hidden": "Moxie"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "sp_atk": 55,
+        "sp_def": 70,
+        "speed": 85,
+        "total": 500
+      },
+      "pokedex_entry": "Grasps its foe with its pincers and then crushes them. Its pincers are said to have the strength of 10,000 pounds.",
+      "evolution_chain": [
+        {"id": "0127", "name": "Pinsir", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0128",
+      "name": "Tauros",
+      "species": "Wild Bull Pokémon",
+      "type": ["Normal"],
+      "height_m": 1.4,
+      "weight_kg": 88.4,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": "Anger Point",
+        "hidden": "Sheer Force"
+      },
+      "base_stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "sp_atk": 40,
+        "sp_def": 70,
+        "speed": 110,
+        "total": 490
+      },
+      "pokedex_entry": "Once it targets its prey, it charges tirelessly. It is known for its uncontrollable wild nature.",
+      "evolution_chain": [
+        {"id": "0128", "name": "Tauros", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0129",
+      "name": "Magikarp",
+      "species": "Fish Pokémon",
+      "type": ["Water"],
+      "height_m": 0.9,
+      "weight_kg": 10.0,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": null,
+        "hidden": "Rattled"
+      },
+      "base_stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 55,
+        "sp_atk": 15,
+        "sp_def": 20,
+        "speed": 80,
+        "total": 200
+      },
+      "pokedex_entry": "Known for being useless, it is nevertheless a very common Pokémon. It can leap high out of the water.",
+      "evolution_chain": [
+        {"id": "0129", "name": "Magikarp", "method": "None"},
+        {"id": "0130", "name": "Gyarados", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0130",
+      "name": "Gyarados",
+      "species": "Atrocious Pokémon",
+      "type": ["Water", "Flying"],
+      "height_m": 6.5,
+      "weight_kg": 235.0,
+      "abilities": {
+        "primary": "Intimidate",
+        "secondary": null,
+        "hidden": "Moxie"
+      },
+      "base_stats": {
+        "hp": 95,
+        "attack": 125,
+        "defense": 79,
+        "sp_atk": 60,
+        "sp_def": 100,
+        "speed": 81,
+        "total": 540
+      },
+      "pokedex_entry": "In ancient times, this Pokémon was feared for its destructive rages. It can destroy cities in a single fit of anger.",
+      "evolution_chain": [
+        {"id": "0129", "name": "Magikarp", "method": "None"},
+        {"id": "0130", "name": "Gyarados", "method": "Level 20"}
+      ]
+    },
+    {
+      "id": "0131",
+      "name": "Lapras",
+      "species": "Transport Pokémon",
+      "type": ["Water", "Ice"],
+      "height_m": 2.5,
+      "weight_kg": 220.0,
+      "abilities": {
+        "primary": "Water Absorb",
+        "secondary": "Shell Armor",
+        "hidden": "Hydration"
+      },
+      "base_stats": {
+        "hp": 130,
+        "attack": 85,
+        "defense": 80,
+        "sp_atk": 85,
+        "sp_def": 95,
+        "speed": 60,
+        "total": 535
+      },
+      "pokedex_entry": "Its smooth skin and large fins allow it to travel quickly through the water. It is capable of understanding human speech.",
+      "evolution_chain": [
+        {"id": "0131", "name": "Lapras", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0132",
+      "name": "Ditto",
+      "species": "Transform Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.3,
+      "weight_kg": 4.0,
+      "abilities": {
+        "primary": "Limber",
+        "secondary": null,
+        "hidden": "Imposter"
+      },
+      "base_stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "sp_atk": 48,
+        "sp_def": 48,
+        "speed": 48,
+        "total": 288
+      },
+      "pokedex_entry": "Can instantly transform itself into an exact duplicate of any object or Pokémon it sees.",
+      "evolution_chain": [
+        {"id": "0132", "name": "Ditto", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0133",
+      "name": "Eevee",
+      "species": "Evolution Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.3,
+      "weight_kg": 6.5,
+      "abilities": {
+        "primary": "Run Away",
+        "secondary": "Adaptability",
+        "hidden": "Anticipation"
+      },
+      "base_stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "sp_atk": 45,
+        "sp_def": 65,
+        "speed": 55,
+        "total": 325
+      },
+      "pokedex_entry": "A rare Pokémon that adapts to its surroundings by changing its shape and abilities. It is said to have unstable genes.",
+      "evolution_chain": [
+        {"id": "0133", "name": "Eevee", "method": "None"},
+        {"id": "0134", "name": "Vaporeon", "method": "Water Stone"},
+        {"id": "0135", "name": "Jolteon", "method": "Thunder Stone"},
+        {"id": "0136", "name": "Flareon", "method": "Fire Stone"},
+        {"id": "0196", "name": "Espeon", "method": "High Friendship (Day) (later gens)"},
+        {"id": "0197", "name": "Umbreon", "method": "High Friendship (Night) (later gens)"},
+        {"id": "0470", "name": "Leafeon", "method": "Lvl Up near Moss Rock (later gens)"},
+        {"id": "0471", "name": "Glaceon", "method": "Lvl Up near Ice Rock (later gens)"},
+        {"id": "0700", "name": "Sylveon", "method": "Lvl Up w/ Fairy move + 2 Affection (later gens)"}
+      ]
+    },
+    {
+      "id": "0134",
+      "name": "Vaporeon",
+      "species": "Bubble Jet Pokémon",
+      "type": ["Water"],
+      "height_m": 1.0,
+      "weight_kg": 29.0,
+      "abilities": {
+        "primary": "Water Absorb",
+        "secondary": null,
+        "hidden": "Hydration"
+      },
+      "base_stats": {
+        "hp": 130,
+        "attack": 65,
+        "defense": 60,
+        "sp_atk": 110,
+        "sp_def": 95,
+        "speed": 65,
+        "total": 525
+      },
+      "pokedex_entry": "A Pokémon that lives in water. Its cells are structured to resemble water molecules, allowing it to melt into the water.",
+      "evolution_chain": [
+        {"id": "0133", "name": "Eevee", "method": "None"},
+        {"id": "0134", "name": "Vaporeon", "method": "Water Stone"},
+        {"id": "0135", "name": "Jolteon", "method": "Thunder Stone"},
+        {"id": "0136", "name": "Flareon", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0135",
+      "name": "Jolteon",
+      "species": "Lightning Pokémon",
+      "type": ["Electric"],
+      "height_m": 0.8,
+      "weight_kg": 24.5,
+      "abilities": {
+        "primary": "Volt Absorb",
+        "secondary": null,
+        "hidden": "Quick Feet"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "sp_atk": 110,
+        "sp_def": 95,
+        "speed": 130,
+        "total": 525
+      },
+      "pokedex_entry": "If it is angry or startled, the hairs on its body stand on end and it fires off a barrage of electric needles.",
+      "evolution_chain": [
+        {"id": "0133", "name": "Eevee", "method": "None"},
+        {"id": "0134", "name": "Vaporeon", "method": "Water Stone"},
+        {"id": "0135", "name": "Jolteon", "method": "Thunder Stone"},
+        {"id": "0136", "name": "Flareon", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0136",
+      "name": "Flareon",
+      "species": "Flame Pokémon",
+      "type": ["Fire"],
+      "height_m": 0.9,
+      "weight_kg": 25.0,
+      "abilities": {
+        "primary": "Flash Fire",
+        "secondary": null,
+        "hidden": "Guts"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "sp_atk": 95,
+        "sp_def": 110,
+        "speed": 65,
+        "total": 525
+      },
+      "pokedex_entry": "A Pokémon with a beautiful tail, it stores heat in its body and releases it at temperatures of 1,650 degrees Fahrenheit.",
+      "evolution_chain": [
+        {"id": "0133", "name": "Eevee", "method": "None"},
+        {"id": "0134", "name": "Vaporeon", "method": "Water Stone"},
+        {"id": "0135", "name": "Jolteon", "method": "Thunder Stone"},
+        {"id": "0136", "name": "Flareon", "method": "Fire Stone"}
+      ]
+    },
+    {
+      "id": "0137",
+      "name": "Porygon",
+      "species": "Virtual Pokémon",
+      "type": ["Normal"],
+      "height_m": 0.8,
+      "weight_kg": 36.5,
+      "abilities": {
+        "primary": "Trace",
+        "secondary": "Download",
+        "hidden": "Analytic"
+      },
+      "base_stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "sp_atk": 85,
+        "sp_def": 75,
+        "speed": 40,
+        "total": 395
+      },
+      "pokedex_entry": "A Pokémon that was created using computer code. It can freely move in cyberspace.",
+      "evolution_chain": [
+        {"id": "0137", "name": "Porygon", "method": "None"},
+        {"id": "0233", "name": "Porygon2", "method": "Trade w/ Up-Grade (later gens)"},
+        {"id": "0474", "name": "Porygon-Z", "method": "Trade w/ Dubious Disc (later gens)"}
+      ]
+    },
+    {
+      "id": "0138",
+      "name": "Omanyte",
+      "species": "Spiral Pokémon",
+      "type": ["Rock", "Water"],
+      "height_m": 0.4,
+      "weight_kg": 7.5,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Shell Armor",
+        "hidden": "Weak Armor"
+      },
+      "base_stats": {
+        "hp": 35,
+        "attack": 40,
+        "defense": 100,
+        "sp_atk": 90,
+        "sp_def": 55,
+        "speed": 35,
+        "total": 355
+      },
+      "pokedex_entry": "An ancient Pokémon resurrected from a Fossil. It uses its tentacles to catch prey in the water.",
+      "evolution_chain": [
+        {"id": "0138", "name": "Omanyte", "method": "None"},
+        {"id": "0139", "name": "Omastar", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0139",
+      "name": "Omastar",
+      "species": "Spiral Pokémon",
+      "type": ["Rock", "Water"],
+      "height_m": 1.0,
+      "weight_kg": 35.0,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Shell Armor",
+        "hidden": "Weak Armor"
+      },
+      "base_stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 125,
+        "sp_atk": 115,
+        "sp_def": 70,
+        "speed": 55,
+        "total": 495
+      },
+      "pokedex_entry": "Its heavy shell makes it difficult to move. It is said to have become extinct because its shell became too heavy.",
+      "evolution_chain": [
+        {"id": "0138", "name": "Omanyte", "method": "None"},
+        {"id": "0139", "name": "Omastar", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0140",
+      "name": "Kabuto",
+      "species": "Shellfish Pokémon",
+      "type": ["Rock", "Water"],
+      "height_m": 0.5,
+      "weight_kg": 11.5,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Battle Armor",
+        "hidden": "Weak Armor"
+      },
+      "base_stats": {
+        "hp": 30,
+        "attack": 80,
+        "defense": 90,
+        "sp_atk": 55,
+        "sp_def": 45,
+        "speed": 55,
+        "total": 355
+      },
+      "pokedex_entry": "A Pokémon resurrected from a Fossil. It lived on the seabed and hid under its shell when attacked.",
+      "evolution_chain": [
+        {"id": "0140", "name": "Kabuto", "method": "None"},
+        {"id": "0141", "name": "Kabutops", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0141",
+      "name": "Kabutops",
+      "species": "Shellfish Pokémon",
+      "type": ["Rock", "Water"],
+      "height_m": 1.3,
+      "weight_kg": 40.5,
+      "abilities": {
+        "primary": "Swift Swim",
+        "secondary": "Battle Armor",
+        "hidden": "Weak Armor"
+      },
+      "base_stats": {
+        "hp": 60,
+        "attack": 115,
+        "defense": 105,
+        "sp_atk": 65,
+        "sp_def": 70,
+        "speed": 80,
+        "total": 495
+      },
+      "pokedex_entry": "In ancient times, it swam in the sea and sliced its victims with its long, sharp scythes.",
+      "evolution_chain": [
+        {"id": "0140", "name": "Kabuto", "method": "None"},
+        {"id": "0141", "name": "Kabutops", "method": "Level 40"}
+      ]
+    },
+    {
+      "id": "0142",
+      "name": "Aerodactyl",
+      "species": "Fossil Pokémon",
+      "type": ["Rock", "Flying"],
+      "height_m": 1.8,
+      "weight_kg": 59.0,
+      "abilities": {
+        "primary": "Rock Head",
+        "secondary": "Pressure",
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "sp_atk": 60,
+        "sp_def": 75,
+        "speed": 130,
+        "total": 515
+      },
+      "pokedex_entry": "A ferocious, prehistoric Pokémon that goes for the enemy's throat with its serrated saw-like fangs. It was resurrected using DNA taken from amber.",
+      "evolution_chain": [
+        {"id": "0142", "name": "Aerodactyl", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0143",
+      "name": "Snorlax",
+      "species": "Sleeping Pokémon",
+      "type": ["Normal"],
+      "height_m": 2.1,
+      "weight_kg": 460.0,
+      "abilities": {
+        "primary": "Immunity",
+        "secondary": "Thick Fat",
+        "hidden": "Gluttony"
+      },
+      "base_stats": {
+        "hp": 160,
+        "attack": 110,
+        "defense": 65,
+        "sp_atk": 65,
+        "sp_def": 110,
+        "speed": 30,
+        "total": 540
+      },
+      "pokedex_entry": "Will eat almost anything, even moldy food. It wakes up only to eat and rarely moves after eating.",
+      "evolution_chain": [
+        {"id": "0446", "name": "Munchlax", "method": "None (later gens)"},
+        {"id": "0143", "name": "Snorlax", "method": "High Friendship (later gens)"}
+      ]
+    },
+    {
+      "id": "0144",
+      "name": "Articuno",
+      "species": "Freeze Pokémon",
+      "type": ["Ice", "Flying"],
+      "height_m": 1.7,
+      "weight_kg": 55.4,
+      "abilities": {
+        "primary": "Pressure",
+        "secondary": null,
+        "hidden": "Snow Cloak"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 100,
+        "sp_atk": 95,
+        "sp_def": 125,
+        "speed": 85,
+        "total": 580
+      },
+      "pokedex_entry": "A legendary bird Pokémon. It causes snow to fall on the mountains, and its magnificent tail feathers flutter gracefully.",
+      "evolution_chain": [
+        {"id": "0144", "name": "Articuno", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0145",
+      "name": "Zapdos",
+      "species": "Electric Pokémon",
+      "type": ["Electric", "Flying"],
+      "height_m": 1.6,
+      "weight_kg": 52.6,
+      "abilities": {
+        "primary": "Pressure",
+        "secondary": null,
+        "hidden": "Static"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 90,
+        "defense": 85,
+        "sp_atk": 125,
+        "sp_def": 90,
+        "speed": 100,
+        "total": 580
+      },
+      "pokedex_entry": "A legendary bird Pokémon that is said to live in thunderclouds. It gains power when struck by lightning.",
+      "evolution_chain": [
+        {"id": "0145", "name": "Zapdos", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0146",
+      "name": "Moltres",
+      "species": "Flame Pokémon",
+      "type": ["Fire", "Flying"],
+      "height_m": 2.0,
+      "weight_kg": 60.0,
+      "abilities": {
+        "primary": "Pressure",
+        "secondary": null,
+        "hidden": "Flame Body"
+      },
+      "base_stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "sp_atk": 125,
+        "sp_def": 85,
+        "speed": 90,
+        "total": 580
+      },
+      "pokedex_entry": "A legendary bird Pokémon. Every time it flaps its wings, it is said to create a dazzling flash of flames.",
+      "evolution_chain": [
+        {"id": "0146", "name": "Moltres", "method": "Does not evolve"}
+      ]
+    },
+    {
+      "id": "0147",
+      "name": "Dratini",
+      "species": "Dragon Pokémon",
+      "type": ["Dragon"],
+      "height_m": 1.8,
+      "weight_kg": 3.3,
+      "abilities": {
+        "primary": "Shed Skin",
+        "secondary": null,
+        "hidden": "Marvel Scale"
+      },
+      "base_stats": {
+        "hp": 41,
+        "attack": 64,
+        "defense": 45,
+        "sp_atk": 50,
+        "sp_def": 50,
+        "speed": 50,
+        "total": 300
+      },
+      "pokedex_entry": "A rare Pokémon that has been sighted in lakes and rivers. It is said to be a mythical Pokémon from the sea.",
+      "evolution_chain": [
+        {"id": "0147", "name": "Dratini", "method": "None"},
+        {"id": "0148", "name": "Dragonair", "method": "Level 30"},
+        {"id": "0149", "name": "Dragonite", "method": "Level 55"}
+      ]
+    },
+    {
+      "id": "0148",
+      "name": "Dragonair",
+      "species": "Dragon Pokémon",
+      "type": ["Dragon"],
+      "height_m": 4.0,
+      "weight_kg": 16.5,
+      "abilities": {
+        "primary": "Shed Skin",
+        "secondary": null,
+        "hidden": "Marvel Scale"
+      },
+      "base_stats": {
+        "hp": 61,
+        "attack": 84,
+        "defense": 65,
+        "sp_atk": 70,
+        "sp_def": 70,
+        "speed": 70,
+        "total": 420
+      },
+      "pokedex_entry": "It is said to live at the bottom of the sea. It has a mystical power to change the weather.",
+      "evolution_chain": [
+        {"id": "0147", "name": "Dratini", "method": "None"},
+        {"id": "0148", "name": "Dragonair", "method": "Level 30"},
+        {"id": "0149", "name": "Dragonite", "method": "Level 55"}
+      ]
+    },
+    {
+      "id": "0149",
+      "name": "Dragonite",
+      "species": "Dragon Pokémon",
+      "type": ["Dragon", "Flying"],
+      "height_m": 2.2,
+      "weight_kg": 210.0,
+      "abilities": {
+        "primary": "Inner Focus",
+        "secondary": null,
+        "hidden": "Multiscale"
+      },
+      "base_stats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "sp_atk": 100,
+        "sp_def": 100,
+        "speed": 80,
+        "total": 600
+      },
+      "pokedex_entry": "It is said to make its home somewhere in the sea. It is a kindhearted Pokémon that rescues people from drowning.",
+      "evolution_chain": [
+        {"id": "0147", "name": "Dratini", "method": "None"},
+        {"id": "0148", "name": "Dragonair", "method": "Level 30"},
+        {"id": "0149", "name": "Dragonite", "method": "Level 55"}
+      ]
+    },
+    {
+      "id": "0150",
+      "name": "Mewtwo",
+      "species": "Genetic Pokémon",
+      "type": ["Psychic"],
+      "height_m": 2.0,
+      "weight_kg": 122.0,
+      "abilities": {
+        "primary": "Pressure",
+        "secondary": null,
+        "hidden": "Unnerve"
+      },
+      "base_stats": {
+        "hp": 106,
+        "attack": 110,
+        "defense": 90,
+        "sp_atk": 154,
+        "sp_def": 90,
+        "speed": 130,
+        "total": 680
+      },
+      "pokedex_entry": "A Pokémon whose genetic code was repeatedly recombined for research. It is said to have the most savage heart among all Pokémon.",
+      "evolution_chain": [
+        {"id": "0150", "name": "Mewtwo", "method": "Does not evolve"}
+      ]
+    }
+  ]
+}
