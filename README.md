@@ -99,9 +99,6 @@ pokemon-pokedex-ai/
 ## 📸 Screenshots
 
 > 📂 Screenshots are available in the `/screenshots` folder
-
-![UI Preview](screenshots/ss1.png)
-
 ---
 
 ## 🚀 How to Run
