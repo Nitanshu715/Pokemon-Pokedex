@@ -1,11 +1,6 @@
 <div align="center">
 
 # ⚡🟡 **POKÉMON POKÉDEX AI** 🔵⚡
-<p align="center">
-  <a href="https://pokemon-pokedex-scanner.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" />
-  </a>
-</p>
 ### *Gotta Classify ’Em All!*
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="120"/>
@@ -14,6 +9,12 @@
 Built using **Deep Learning (CNNs)**, **TensorFlow**, and a **Pokémon-themed interactive UI**.
 
 </div>
+
+<p align="center">
+  <a href="https://pokemon-pokedex-scanner.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?style=for-the-badge&logo=streamlit" />
+  </a>
+</p>
 
 ---
 
