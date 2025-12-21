@@ -1,4 +1,5 @@
 import os
+import json
 import numpy as np
 from PIL import Image
 import tensorflow as tf
@@ -40,6 +41,8 @@ for class_name in sorted(os.listdir(DATASET_PATH)):
 
 X = np.array(X)
 y = np.array(y)
+with open("class_names.json", "w") as f:
+    json.dump(class_names, f)
 
 print("Images loaded:", len(X))
 print("Classes:", len(class_names))
@@ -79,3 +82,4 @@ model.fit(
 model.save(MODEL_SAVE_PATH)
 
 print("MODEL SAVED AT:", MODEL_SAVE_PATH)
+
