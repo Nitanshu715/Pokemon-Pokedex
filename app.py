@@ -248,7 +248,13 @@ if not os.path.exists(MODEL_PATH):
 
 model = tf.keras.models.load_model(MODEL_PATH)
 # ================== CLASS NAMES ==================
-CLASS_NAMES = sorted([p["name"] for p in POKEDEX_BY_NAME.values()])
+with open("class_names.json", "r") as f:
+    class_indices = json.load(f)
+
+CLASS_NAMES = [None] * len(class_indices)
+for name, idx in class_indices.items():
+    CLASS_NAMES[idx] = name
+
 
 # ================== MAIN APP ==================
 st.markdown("<h1>⚡ POKÉMON POKÉDEX ⚡</h1>", unsafe_allow_html=True)
@@ -441,3 +447,4 @@ else:
         View complete stats, type, abilities, and Pokédex information
 
         """)
+
